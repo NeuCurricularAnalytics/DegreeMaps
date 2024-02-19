@@ -1,0 +1,45 @@
+Curriculum,Cali_State_University_Los_Angelous,,,,,,,,,
+Institution,"California State University Los Angelous",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Calculus I","MATH","2110",,,,4,"","",20.0,14,6.0,0
+2,"Calculus II","MATH","2120","1",,,4,"","",6.0,2,4.0,4
+3,"Introduction to Linear Algebra","MATH","2550","2",,,3,"","",5.0,1,4.0,4
+4,"General Physics I: Mechanics","PHYS","2100","1",,,5,"","",4.0,1,3.0,3
+5,"Introduction to Higher Education for Computer Science Majors","CS","1010",,,,3,"","",31.0,23,8.0,0
+6,"Introduction to Relational Databases","CS","1222","5",,,3,"","",12.0,6,6.0,13
+7,"Introduction to Programming I","CS","2011","5",,,4,"","",29.0,21,8.0,171
+8,"Intorduction to Programming II","CS","2012","7",,,4,"","",25.0,17,8.0,109
+9,"Programming with Data Structures","CS","2013","8",,,4,"","",24.0,16,8.0,109
+10,"Discrete Structures","CS","2148","7;1",,,4,"","",17.0,10,7.0,80
+11,"Introduction to Computer Systems","CS","2445","7",,,3,"","",11.0,4,7.0,7
+12,"Fundamentals of Network Systems and Cybersecurity","CS","2470","7",,,3,"","",12.0,5,7.0,11
+13,"Accelerated College Writing","ENGL","1010",,,,3,"","",11.0,5,6.0,0
+14,"Introduction to Technical Writing","ENGL","2030","13",,,3,"","",10.0,4,6.0,6
+15,"Programming Paradigms","CS","3035","9",,,3,"","",12.0,4,8.0,14
+16,"Analysis of Algorithms","CS","3112","10;9",,,3,"","",16.0,8,8.0,96
+17,"Introduction to Automata Theory","CS","3186","10;9",,,3,"","",12.0,4,8.0,36
+18,"Web and Internet Programming","CS","3220","6;9",,,3,"","",12.0,4,8.0,24
+19,"Software Engineering","CS","3337","9","14",,3,"","",11.0,3,8.0,14
+20,"Societal and Ethical Issues in Computing","CS","3801","9",,,3,"","",11.0,3,8.0,8
+21,"Introduction to Operating Systems","CS","4440","11;9;12",,,3,"","",11.0,3,8.0,22
+22,"Software Design Laboratory I","CS","4961","15;16;20;18;17;19","21",,3,"","",10.0,2,8.0,108
+23,"Software Design Laboratory II","CS","4962","22",,,3,"","",9.0,1,8.0,108
+24,"Computer Science Recapitulation","CS","4963","4;3","23",,3,"","",8.0,0,8.0,0
+25,"Compilers (CS Elective)","CS","4188","15;16;17",,,3,"","",6.0,0,6.0,0
+26,"Current Trends in Web Design and Development (CS Elective)","CS","4220","16;18",,,3,"","",6.0,0,6.0,0
+27,"Principles of Data Base Systems (CS Elective)","CS","4222","6;16",,,3,"","",6.0,0,6.0,0
+28,"Computer Networking Protocols (CS Elective)","CS","4470","9;12",,,3,"","",5.0,0,5.0,0
+29,"Artifical Intelligence (CS Elective)","CS","4660","16",,,3,"","",6.0,0,6.0,0
+30,"Introduction to Data Science (CS Elective)","CS","4661","16",,,3,"","",6.0,0,6.0,0
+31,"A1 Oral Communication","XX","XX",,,,3,"","",1.0,0,1.0,0
+32,"A3 Critical Thinking and Composition","XX","XX",,,,3,"","",1.0,0,1.0,0
+33,"American Institutions ","XX","XX",,,,3,"","",1.0,0,1.0,0
+34,"American Institutions ","XX","XX",,,,3,"","",1.0,0,1.0,0
+35,"Natural Science","XX","XX",,,,2,"","",1.0,0,1.0,0
+36,"Natural Science","XX","XX",,,,3,"","",1.0,0,1.0,0
+37,"Arts","XX","XX",,,,3,"","",1.0,0,1.0,0
+38,"Humanities","XX","XX",,,,2,"","",1.0,0,1.0,0

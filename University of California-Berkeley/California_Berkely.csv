@@ -1,0 +1,28 @@
+﻿Curriculum,EECS Major ,,,,,,,,
+Insitution,School,,,,,,,,
+Degree Type,"pick one of AA, AS, AAS, BA, BS.",,,,,,,,
+System Type,semester or quarter,,,,,,,,
+CIP,number,,,,,,,,
+Courses,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,Calculus I,Math,1A,,,,6,,calc 1
+2,Calculus II,Math,1B,1,,,6,,calc 2
+3,Designing Information Devices and Systems I,EECS,16A,1,4,,7,,
+4,The Structure and Interpretation of Computer Programs,CS,61A,1,,,6,,cs 1
+5,Data Structures,CS,61B,4,,,6,,
+6,Machine Structures,CS,61C,4;5,,,6,,
+7,Discrete Mathematics and Probability Theory,CS,70,,,,5,,https://www2.eecs.berkeley.edu/Courses/CS70/?_ga= 
+8,(Upper Division Elective) Computer Architecture and Engineering,CS,152,6,,,5,,
+9,(Upper Division Elective) Feedback Control Systems,EE,C128,3,,,7,,
+10,(Upper Division Elective) Introduction to Robotics,EECS,C106A,3;4,,,7,,
+11,(Upper Division Elective) CS Course,CS,XXX,,,,8,,
+12,(Upper Division Elective) CS/EE/EECS Course,CS/EE/EECS,XXX,,,,8,,
+13,(Upper Dividion Technical Elective) ,XX,XXX,,,,4,,
+14,Entry Level Writing Requirement (Satisfies Part A of the Reading and Composition Requirment), COLWRIT,R1A,,,,6,,
+15,American Cultures Requirement,COLWRIT,XXX,,,,7,,
+16,Part B Reading and Composition,XX,XXX,14,,,4,,
+17,Foregin Language ,XX,XXX,,,,4,,
+18,Foregin Language Higher ,XX,XXX,17,,,4,,
+19,Elective,XX,XXX,,,,5,,
+20,Elective,XX,XXX,,,,5,,
+21,Elective,XX,XXX,,,,4,,

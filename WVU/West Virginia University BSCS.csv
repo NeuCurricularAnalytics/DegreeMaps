@@ -1,0 +1,51 @@
+Curriculum,West Virginia University BSCS,,,,,,,,,
+Institution,"West Virginia University",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.0701",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Intro to Comp and Rhetoric","ENGL","101",,,,3,"","",8.0,4,4.0,0
+2,"Comp, Rhetoric, and Research","ENGL","102","1",,,3,"","",7.0,3,4.0,7
+3,"Seminar 1st Year","ENGR","191",,,,1,"","",1.0,0,1.0,0
+4,"Engineering Problem Solving","ENGR","101",,"5",,2,"","",2.0,0,2.0,0
+5,"Calc I","MATH","155",,,,4,"","",14.0,10,4.0,0
+6,"Calc II","MATH","156","5",,,4,"","",10.0,6,4.0,17
+7,"Multivariable Calc","MATH","251","6",,,4,"","",3.0,0,3.0,0
+8,"Intro to Prob and Stats","STAT","215","6",,,3,"","",3.0,0,3.0,0
+9,"Planet Earth","GEOL","101",,,,3,"","",6.0,3,3.0,0
+10,"Planet Earth Lab","GEOL","101L",,"9",,1,"","",2.0,0,2.0,0
+11,"Earth Through Time","GEOL","103","9",,,3,"","",4.0,1,3.0,3
+12,"Earth Through Time Lab","GEOL","103L",,"11",,1,"","",3.0,0,3.0,0
+13,"Biology","BIO","115",,,,3,"","",3.0,1,2.0,0
+14,"Biology Lab","BIO","115L",,"13",,1,"","",2.0,0,2.0,0
+15,"Group Communication","COMM","113",,,,3,"","",1.0,0,1.0,0
+16,"Technical Writing","ENGL","305","2;1",,,3,"","",3.0,0,3.0,0
+17,"Intro to Digital Logic Design","CPE","271","6",,,3,"","",6.0,2,4.0,8
+18,"Intro to Digital Logic Lab","CPE","272",,,"17",1,"","",4.0,0,4.0,0
+19,"Computer Architecture","CS","455","17",,,3,"","",4.0,0,4.0,0
+20,"Intro to CS","CS","110",,,,4,"","",19.0,15,4.0,0
+21,"Intro to DS","CS","111","20",,,4,"","",17.0,13,4.0,35
+22,"Files and DS","CS","210","21",,,4,"","",5.0,1,4.0,4
+23,"Discrete Math","CS","220","5;20",,,3,"","",5.0,2,3.0,12
+24,"Intro to SE","CS","230","21",,,4,"","",7.0,3,4.0,12
+25,"Principles of Programming Languages","CS","310","21",,,3,"","",6.0,2,4.0,8
+26,"Algorithms","CS","320","6;21;23",,,3,"","",3.0,0,3.0,0
+27,"Computer Systems Concepts","CS","350","21",,,3,"","",6.0,2,4.0,8
+28,"Compiler Construction","CS","410","25",,,3,"","",4.0,0,4.0,0
+29,"Operating Systems Structure","CS","450","27",,,4,"","",4.0,0,4.0,0
+30,"Data and Computer Communication","CS","453","27",,,3,"","",4.0,0,4.0,0
+31,"Engineering Seminar","CSEE","380",,,,1,"","",5.0,2,3.0,0
+32,"Capstone I","CSEE","480","2;31",,,2,"","",5.0,1,4.0,7
+33,"Capstone II","CSEE","481","32",,,3,"","",4.0,0,4.0,0
+34,"Advanced SE","CS","430","24",,,3,"","",4.0,0,4.0,0
+35,"Databases","CS","440","24",,,3,"","",4.0,0,4.0,0
+36,"Computer Graphics","CS","470","22",,,3,"","",4.0,0,4.0,0
+37,"Artificial Intelligence","CS","472","24",,,3,"","",4.0,0,4.0,0
+38,"Game Development","CS","475","25;23",,,3,"","",4.0,0,4.0,0
+39,"GEF 5","GEF","105",,,,3,"","",1.0,0,1.0,0
+40,"GEF 6","GEF","106",,,,3,"","",1.0,0,1.0,0
+41,"GEF 7","GEF","107",,,,3,"","",1.0,0,1.0,0
+42,"Elective","ELECTIVE","101",,,,3,"","",1.0,0,1.0,0
+43,"Elective","ELECTIVE","102",,,,3,"","",1.0,0,1.0,0
+44,"Extra GEF","GEF","108",,,,3,"","",1.0,0,1.0,0

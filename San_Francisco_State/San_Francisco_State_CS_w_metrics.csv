@@ -1,0 +1,49 @@
+Curriculum,San_Francisco_State_CS,,,,,,,,,
+Institution,"San Francisco State University",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Calculus I","MATH","226",,,,4,"","",19.0,13,6.0,0
+2,"Calculus II","MATH","227","1",,,4,"","",18.0,12,6.0,70
+3,"Probabilitiy and Statistics with Computing","MATH","324","2",,,3,"","",10.0,5,5.0,15
+4,"Linear Algebra","MATH","325","2",,,3,"","",3.0,0,3.0,0
+5,"General Physics with Calculus I","PHYS","220","1","2","6",3,"","",10.0,4,6.0,32
+6,"General Physics with Calculus I Lab","PHYS","222",,,,1,"","",10.0,5,5.0,0
+7,"General Physics with Calculus II","PHYS","230","5;2",,"8",3,"","",9.0,3,6.0,50
+8,"General Physics with Calculus II Lab","PHYS","232",,,,1,"","",8.0,4,4.0,0
+9,"Introduction to Computer Programming","CSC","210",,,"10",3,"","",21.0,15,6.0,76
+10,"Introduction to Software Lab","CSC","211",,,,1,"","",22.0,16,6.0,0
+11,"Data Structures","CSC","220","9",,,3,"","",17.0,11,6.0,43
+12,"Discrete Mathematical Structures for Computer Science","CSC","230","2;9",,,3,"","",13.0,7,6.0,60
+13,"Machine Structures","CSC","256","12",,,3,"","",9.0,3,6.0,24
+14,"Ethics, Communication, and Tools for Software - GWAR","CSC","300GW","9",,,3,"","",3.0,0,3.0,0
+15,"Introduction to Web Software Development","CSC","317","11",,,3,"","",6.0,1,5.0,5
+16,"Programming Methodolgy","CSC","340","11;12",,,3,"","",11.0,5,6.0,54
+17,"Software Development","CSC","413","11",,,3,"","",9.0,4,5.0,20
+18,"Operating System Principles","CSC","415","13;16;7;3",,,3,"","",8.0,2,6.0,120
+19,"Analysis of algorithms I","CSC","510","16;3",,,3,"","",7.0,1,6.0,23
+20,"Programming Paradigms and Languages","CSC","600","17;19",,,3,"","",6.0,0,6.0,0
+21,"Software Engineering","CSC","648","15;17",,,3,"","",5.0,0,5.0,0
+22,"UNIX Programming (CS Elective)","CSC","615","18",,,3,"","",6.0,0,6.0,0
+23,"Human Computer Interaction (CS Elective)","CSC","642","17",,,3,"","",5.0,0,5.0,0
+24,"Computer Organization (CS Elective)","CSC","656","18",,,3,"","",6.0,0,6.0,0
+25,"Advanced Object Oriented Software Design and Development (CS Elective)","CSC","668","17",,,3,"","",5.0,0,5.0,0
+26,"Oral Communication ","XX","XX",,,,3,"","",1.0,0,1.0,0
+27,"Written English Communication","XX","XX",,,,3,"","",1.0,0,1.0,0
+28,"Critial Thinking","XX","XX",,,,3,"","",1.0,0,1.0,0
+29,"Life Science","XX","XX",,,,3,"","",1.0,0,1.0,0
+30,"Arts","XX","XX",,,,3,"","",1.0,0,1.0,0
+31,"Humanitites","XX","XX",,,,3,"","",1.0,0,1.0,0
+32,"Arts or Humanities","XX","XX",,,,2,"","",1.0,0,1.0,0
+33,"Social Sciences","XX","XX",,,,3,"","",1.0,0,1.0,0
+34,"Social Sciences: US History","XX","XX",,,,3,"","",1.0,0,1.0,0
+35,"Lifelong Learning and Self Development","XX","XX",,,,3,"","",1.0,0,1.0,0
+36,"Physical or Life Science","XX","XX",,,,2,"","",1.0,0,1.0,0
+37,"Arts or Humanities","XX","XX",,,,3,"","",1.0,0,1.0,0
+38,"Socal Sciences","XX","XX",,,,3,"","",1.0,0,1.0,0
+39,"American Ethnic and Racial Minorites","XX","XX",,,,3,"","",1.0,0,1.0,0
+40,"Enviormental Sustanibility","XX","XX",,,,3,"","",1.0,0,1.0,0
+41,"Global Perspectives","XX","XX",,,,3,"","",1.0,0,1.0,0
+42,"Social Justice","XX","XX",,,,3,"","",1.0,0,1.0,0

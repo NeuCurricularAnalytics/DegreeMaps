@@ -1,0 +1,54 @@
+Curriculum,California_Santa_Barbra_CS,,,,,,,,,
+Institution,"University of California-Santa Barbara",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"quarter",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Calculus with Applications I","MATH","3A",,,,4,"","",18.7,22,6.0,0
+2,"Calculus with Applications II","MATH","3B","1",,,4,"","",16.0,18,6.0,98
+3,"Linear Algebra with Applications","MATH","4A","2",,,4,"","",14.0,15,6.0,63
+4,"Differential Equations","MATH","4B","3",,,4,"","",2.7,0,4.0,0
+5,"Vector Calculus","MATH","6A","3",,,4,"","",2.7,0,4.0,0
+6,"Introduction to Computer Science ","CMPSC","8",,,,4,"","",12.7,13,6.0,0
+7,"Problem Solving with Computers I","CMPSC","16","6;1",,,4,"","",12.0,12,6.0,146
+8,"Problem Solving with Computers II","CMPSC","24","7;2",,,4,"","",9.3,8,6.0,105
+9,"Object Oriented Design and Implementation","CMPSC","32","8",,,4,"","",8.7,7,6.0,105
+10,"Foundations of Computer Science","CMPSC","40","7;3",,,5,"","",8.7,7,6.0,93
+11,"Computer Organization and Logic Design","CMPSC","64","7;3",,,4,"","",6.0,3,6.0,29
+12,"Probability and Statistics","PSTAT","120A","3",,,4,"","",4.0,1,5.0,5
+13,"Basic Physics I","PHYS","1","1",,,4,"","",4.0,2,4.0,4
+14,"Basic Physics II","PHYS","2","13;1",,,4,"","",3.3,1,4.0,7
+15,"Basic Physics III","PHYS","3","14;3;1","16",,3,"","",2.7,0,4.0,0
+16,"Physics Laboratory","PHYS","3L",,,,1,"","",2.0,1,2.0,0
+17,"(Science Elective)","XX","XX",,,,4,"","",0.7,0,1.0,0
+18,"(Science Elective)","XX","XX",,,,4,"","",0.7,0,1.0,0
+19,"Intro to Computational Science","CMPSC","111","10;9",,,4,"","",3.3,0,5.0,0
+20,"Data Structures and Algorithms I","CMPSC","130A","10;9",,,4,"","",6.7,4,6.0,136
+21,"Data Structures and Algorithms II","CMPSC","130B","20",,,4,"","",4.0,0,6.0,0
+22,"Automata and Formal Languages","CMPSC","138","10",,,4,"","",4.7,1,6.0,16
+23,"Software Engineering","CMPSC","172","20",,,4,"","",4.0,0,6.0,0
+24,"Computer Architecture","CMPSC","154","11;9",,,4,"","",4.7,1,6.0,34
+25,"Translation of Programming Languages","CMPSC","160","22;20;11",,,4,"","",4.0,0,6.0,0
+26,"Operating Systems","CMPSC","170","20;24",,,4,"","",4.0,0,6.0,0
+27,"Probability and Statistics","PSTAT","120B","12",,,4,"","",3.3,0,5.0,0
+28,"Ethics in Engineering","ENGR","101",,,,3,"","",0.7,0,1.0,0
+29,"(UC Entry Level Writing Requirement)","XX","XX",,,,4,"","",0.7,0,1.0,0
+30,"(American History and Institutions)","XX","XX",,,,4,"","",0.7,0,1.0,0
+31,"(Area A: English Reading & Comprehension I)","XX","XX",,,,4,"","",0.7,0,1.0,0
+32,"(Area A: English Reading & Comprehension II)","XX","XX",,,,4,"","",0.7,0,1.0,0
+33,"(Area D: Social Science I)","XX","XX",,,,4,"","",0.7,0,1.0,0
+34,"(Area D: Social Science II)","XX","XX",,,,4,"","",0.7,0,1.0,0
+35,"(Area E: Culture and Thought I)","XX","XX",,,,4,"","",0.7,0,1.0,0
+36,"(Area E: Culture and Thought II)","XX","XX",,,,4,"","",0.7,0,1.0,0
+37,"(Area F: The Arts)","XX","XX",,,,4,"","",0.7,0,1.0,0
+38,"(Area G: Literature)","XX","XX",,,,4,"","",0.7,0,1.0,0
+39,"(Ethnicity Elective)","XX","XX",,,,4,"","",0.7,0,1.0,0
+40,"(Euro/World History Elective)","XX","XX",,,,4,"","",0.7,0,1.0,0
+41,"(Writing I)","XX","XX",,,,4,"","",0.7,0,1.0,0
+42,"(Writing II)","XX","XX",,,,4,"","",0.7,0,1.0,0
+43,"(Writing III)","XX","XX",,,,4,"","",0.7,0,1.0,0
+44,"(Writing IV)","XX","XX",,,,4,"","",0.7,0,1.0,0
+45,"(General Elective)","XX","XX",,,,4,"","",0.7,0,1.0,0
+46,"(General Elective)","XX","XX",,,,4,"","",0.7,0,1.0,0
+47,"(General Elective)","XX","XX",,,,4,"","",0.7,0,1.0,0

@@ -1,0 +1,47 @@
+Curriculum,U_of_Centeral_Florida_CS,,,,,,,,,
+Institution,"University of Centeral Florida",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Calculus w/ Analytic Geometry I","MAC","2311",,,,4,"","",24.0,18,6.0,0
+2,"Calculus w/ Analytic Geometry II","MAC","2312","1",,,4,"","",6.0,3,3.0,9
+3,"Statistical Methods I","STA","2023","1",,,3,"","",5.0,2,3.0,6
+4,"Physics for Engr. & Sci. I","PHY","2048C","1",,,4,"","",4.0,1,3.0,3
+5,"Physics for Engr. & Sci. II","PHY","2049C","4;2",,,4,"","",3.0,0,3.0,0
+6,"Sciece Course","XX","XX",,,,3,"","",1.0,0,1.0,0
+7,"Sciece Course","XX","XX",,,,3,"","",1.0,0,1.0,0
+8,"Technical Report Writing","ENC","3241","32",,,3,"","",3.0,0,3.0,0
+9,"Secuirty in Computing","CIS","3360","11",,,3,"","",3.0,0,3.0,0
+10,"Computer Logic and Organization","CDA","3103","11",,,3,"","",9.0,3,6.0,6
+11,"Intro to Programming with C","COP","3223","29",,,3,"","",23.0,16,7.0,102
+12,"Intro to OO Programming with Java","COP","3330","11",,,3,"","",16.0,9,7.0,39
+13,"Computer Science I","COP","3502","11",,,3,"","",19.0,12,7.0,54
+14,"Computer Science II","COP","3503","13;15;12",,,3,"","",15.0,8,7.0,110
+15,"Intro to Discrete Structure","COT","3100","1",,,3,"","",17.0,11,6.0,38
+16,"CS Foundation Exam","COT","3960","13",,,0,"","",6.0,1,5.0,5
+17,"Procs for OO Development","COP","4331","14",,,3,"","",10.0,3,7.0,37
+18,"Discrete Computation Structures","COT","4210","16;2;14",,,3,"","",5.0,0,5.0,0
+19,"Senoir Design I","COP","4934","30;14","17",,3,"","",8.0,1,7.0,49
+20,"Senoir Design II","COP","4935","19",,,3,"","",7.0,0,7.0,0
+21,"Algorithms for Machine Learning (CS Elective)","CAP","4611","13;3",,,3,"","",4.0,0,4.0,0
+22,"natural Language Processing (CS Elective)","CAP","4641","14",,,3,"","",5.0,0,5.0,0
+23,"Software Engineering (CS Elective)","CEN","5016","17",,,3,"","",6.0,0,6.0,0
+24,"Analysis of Computer Communication Networks (CS Elective)","CNT","4704","15;3",,,3,"","",3.0,0,3.0,0
+25,"Problem Solving Techniques and Team Dynamics (CS Elective)","COP","4516C","14",,,3,"","",5.0,0,5.0,0
+26,"Database Systems (CS Elective)","COP","4710","14",,,3,"","",5.0,0,5.0,0
+27,"Calculus with Analytics Geometry III (Math Elective)","MAC","2313","2",,,3,"","",3.0,0,3.0,0
+28,"Introduction to Graph Theory (Math Elective)","MAD","4301","15",,,3,"","",3.0,0,3.0,0
+29,"Concepts in Computer Science","COP","2500",,,,3,"","",24.0,17,7.0,0
+30,"Systems Software","COP","3402","13;10",,,3,"","",8.0,2,6.0,12
+31,"Composition I","ENC","1101",,,,3,"","",5.0,2,3.0,0
+32,"Composition II","ENC","1102","31",,,3,"","",4.0,1,3.0,3
+33,"Communication General ED","XX","XX",,,,3,"","",1.0,0,1.0,0
+34,"Historical and Culture Foundation General Ed","XX","XX",,,,3,"","",1.0,0,1.0,0
+35,"Historical and Culture Foundation General Ed","XX","XX",,,,3,"","",1.0,0,1.0,0
+36,"Historical and Culture Foundation General Ed","XX","XX",,,,3,"","",1.0,0,1.0,0
+37,"Social Foundation","XX","XX",,,,3,"","",1.0,0,1.0,0
+38,"Social Foundation","XX","XX",,,,3,"","",1.0,0,1.0,0
+39,"Free Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+40,"Free Elective","XX","XX",,,,2,"","",1.0,0,1.0,0

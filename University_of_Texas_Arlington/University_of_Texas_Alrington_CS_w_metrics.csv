@@ -1,0 +1,48 @@
+Curriculum,University_of_Texas_Alrington_CS,,,,,,,,,
+Institution,"University of Texas Alrington",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Rhetoric and Composition I","ENGL","1301",,,,3,"","",5.0,2,3.0,0
+2,"Professional and Technical Communication for Science and Engineering","COMS","2302","1",,,3,"","",4.0,1,3.0,3
+3,"Government of the United States","POLS","2311",,,,3,"","",1.0,0,1.0,0
+4,"State and Local Giverment","POLS","2312",,,,3,"","",1.0,0,1.0,0
+5,"History Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+6,"History Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+7,"Social and Behavioral Sciences","XX","XX",,,,3,"","",1.0,0,1.0,0
+8,"Philosophy and Culture Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+9,"Approved Arts Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+10,"Student Success","UNIV","1131",,,,1,"","",32.0,25,7.0,0
+11,"Calculus I","MATH","1426",,,,4,"","",37.0,30,7.0,0
+12,"Calculus II","MATH","2425","11",,,4,"","",9.0,5,4.0,15
+13,"General Technical Physics I","PHYS","1443","11",,,4,"","",4.0,1,3.0,3
+14,"General Technical Physics II","PHYS","1444","13","12",,4,"","",3.0,0,3.0,0
+15,"Introduction to Computers and Programming","CSE","1310",,"11;10",,3,"","",31.0,24,7.0,398
+16,"Introduction to Computer Science and Engineering","CSE","1106","15",,,1,"","",3.0,0,3.0,0
+17,"Intermediate Programming","CSE","1320","15;11;10",,,3,"","",26.0,19,7.0,486
+18,"Object Oriented Programming","CSE","1325","17",,,3,"","",16.0,9,7.0,154
+19,"Computer Organization and Assembly Language Programming","CSE","2312","17",,,3,"","",16.0,9,7.0,140
+20,"Discrete Structures","CSE","2315","15;11",,,3,"","",21.0,15,6.0,177
+21,"Algorithms and Data Structures","CSE","3318","20;17",,,3,"","",13.0,7,6.0,199
+22,"Engineering Probability","IE","3301","12",,,3,"","",6.0,2,4.0,8
+23,"Programming Languages","CSE","3302","21;18;19",,,3,"","",7.0,1,6.0,83
+24,"Fundamentals of Software Engineering","CSE","3310","20;18;17",,,3,"","",12.0,5,7.0,238
+25,"Professional Practices","CSE","3314","21;2",,,3,"","",5.0,0,5.0,0
+26,"Theoretical Concepts in Computer Science and Engineering","CSE","3315","20",,,3,"","",6.0,1,5.0,14
+27,"Operating Systems","CSE","3320","19",,,3,"","",13.0,6,7.0,118
+28,"Database Systems and File Structures","CSE","3330","21;18",,,3,"","",5.0,0,5.0,0
+29,"Linear Algebra for CSE","CSE","3380","20",,,3,"","",6.0,1,5.0,14
+30,"Artifical Intelligence","CSE","4308","22;21",,,3,"","",5.0,0,5.0,0
+31,"Computer System Design Project I","CSE","4316","27;24",,,3,"","",9.0,2,7.0,182
+32,"Computer System Design Project II","CSE","4317","31",,,3,"","",7.0,0,7.0,0
+33,"Computer Network Organization","CSE","4344","27",,,3,"","",6.0,0,6.0,0
+34,"Compliers for Algorithmic Languages (Forced Elective)","CSE","4305","26;23",,,3,"","",6.0,0,6.0,0
+35,"Information Security (Security Elective)","CSE","4380","27",,,3,"","",6.0,0,6.0,0
+36,"Calculus III (Approved Math Elective)","MATH","2326","12",,,3,"","",5.0,1,4.0,4
+37,"Fundamentals of Machine Learning (Approved Technical Elective)","CSE","4309","22;29;21;36",,,3,"","",5.0,0,5.0,0
+38,"Software Testing and Maintenance `(Approved Technical Elective)","CSE","4321","24",,,3,"","",6.0,0,6.0,0
+39,"Database Implementation and Theory (Approved Technical Elective)","CSE","3330","18;31",,,3,"","",7.0,0,7.0,0
+40,"Parallel Processing (Approved Technical Elective)","CSE","4351","27",,,3,"","",6.0,0,6.0,0
+41,"Object Oriented Software Engineering (Approved Technical Elective)","CSE","3311","21;24",,,3,"","",6.0,0,6.0,0

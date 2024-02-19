@@ -1,0 +1,50 @@
+Curriculum,University_of_South_Florida_CS,,,,,,,,,,,,
+Institution,University of South Florida,,,,,,,,,,,,
+Degree Type,BS,,,,,,,,,,,,
+System Type,semester,,,,,,,,,,,,
+CIP,11.07,,,,,,,,,,,,
+Courses,,,,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,Engineering Calculus I,MAC,2281,,,,4,,,28,23,5,0
+2,Engineering Calculus II,MAC,2282,1,,,4,,,6,3,3,9
+3,General Physics I - Calculus Based Physics,PHY,2048,,1,4,3,,,4,1,3,6
+4,General Physics I Laboratory,PHY,2048L,,,,1,,,5,2,3,0
+5,General Physics II - Calculus Based,PHY,2049,3,2,6,3,,,3,0,3,0
+6,General Physics II Laboratory,PHY,2049L,,,,1,,,3,1,2,0
+7,Programming Concepts,COP,2510,1,,,3,,,21,16,5,127
+8,Introduction to Discrete Structures,COT,3100,1,,,3,,,16,12,4,47
+9,Foundation of Engineering,EGN,3000,,,,1,,,1,0,1,0
+10,Foundation fo Engineering Lab,EGN,300L,,,,3,,,1,0,1,0
+11,Probability and Statistics for Engineering,EGN,3443,2,,,3,,,3,0,3,0
+12,Introduction to Linear Systems,EGN,4450,2,,,2,,,3,0,3,0
+13,Program Design,COP,3514,7,,,3,,,19,14,5,64
+14,Data Structures,COP,4530,13;16;8,,,3,,,16,11,5,154
+15,Operating Systems,COP,4600,14,,,3,,,5,0,5,0
+16,Computer Organization,CDA,3103,7,,,3,,,19,14,5,60
+17,Computer Logic and Design,CDA,3201,13;16,,18,3,,,6,1,5,13
+18,Computer Logic and Design Lab,CDS,3201L,,,,1,,,5,2,3,0
+19,Computer Architecture,CDA,4205,17,,20,3,,,5,0,5,0
+20,Computer Architecture Lab,CDA,4205L,,,,1,,,3,1,2,0
+21,Software Engineering,CEN,4020,14,,,3,,,5,0,5,0
+22,Analysis of Algorithms,COT,4400,8;14,,,3,,,5,0,5,0
+23,Secure Coding,CNT,4419,14,,,3,,,5,0,5,0
+24,Ethical Issues and Professional Conduct,CIS,4250,,,,3,,,1,0,1,0
+25,Composition I,ENC,1101,,,,3,,,5,2,3,0
+26,Composition II,ENC,1102,25,,,3,,,4,1,3,3
+27,Communication for Engineering,ENC,3246,26,,,3,,,3,0,3,0
+28,Computer Networks I (Software Elective),CNT,4004,13,14,,3,,,5,0,5,0
+29,Programming Languages (Software Elective),COP,4020,14,,,3,,,5,0,5,0
+30,Privacy Preserving and Trustworthy Cyber Infrastructures (Theory Elective),CIS,4212,14,,,3,,,5,0,5,0
+31,Natural Language Processing (CS Elective),CAP,4641,14,,,3,,,5,0,5,0
+32,Compileres (CS Elective),COP,4620,14,,,3,,,5,0,5,0
+33,Database Design (CS Elective),COP,4710,14,,,3,,,5,0,5,0
+34,Software Testing (CS Elective),CEN,4072,7;14,,,3,,,5,0,5,0
+35,Humanities,XX,XX,,,,3,,,1,0,1,0
+36,Socical Sciences,XX,XX,,,,3,,,1,0,1,0
+37,Creative Thnking,XX,XX,,,,3,,,1,0,1,0
+38,Information & Data Literacy,XX,XX,,,,3,,,1,0,1,0
+39,Human & Cultural Diversity,XX,XX,,,,3,,,1,0,1,0
+40,Ethical Reasoning & Civic Engaement,XX,XX,,,,3,,,1,0,1,0
+41,High Impact Practive,XX,XX,,,,3,,,1,0,1,0
+42,Free Elective,XX,XX,,,,3,,,1,0,1,0
+43,Free Elective,XX,XX,,,,3,,,1,0,1,0

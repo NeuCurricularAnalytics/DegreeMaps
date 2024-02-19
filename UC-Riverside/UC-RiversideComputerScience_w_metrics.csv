@@ -1,0 +1,52 @@
+Curriculum,UC-Riverside Computer Science,,,,,,,,,
+Institution,"UC-Riverside",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"quarter",,,,,,,,,
+CIP,"11.0701",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"C++ Programming 1","CS","010A",,"4",,4,"","",14.0,15,6.0,62
+2,"Beginning Comp","ENGL","001A",,,,4,"","",2.0,1,2.0,0
+3,"Professional Dev","ENGR","001I",,,,1,"","",0.7,0,1.0,0
+4,"Calculus I","MATH","009A",,,,4,"","",24.0,30,6.0,0
+5,"C++ Programming 2","CS","010B","1",,,4,"","",6.0,3,6.0,6
+6,"Intermediate Comp","ENGL","001B","2",,,4,"","",1.3,0,2.0,0
+7,"Calculus I","MATH","009B","4",,,4,"","",14.7,17,5.0,75
+8,"Discrete Structures","CS","11","4;1",,,4,"","",2.0,0,3.0,0
+9,"Intro to Discrete Structures","CS","010C","5",,,4,"","",5.3,2,6.0,6
+10,"Calculus I","MATH","009C","7",,,4,"","",5.3,3,5.0,9
+11,"Human/Social","Breadth","1",,,,4,"","",0.7,0,1.0,0
+12,"Machine Org & Assembly","CS","61","1",,,4,"","",8.0,7,5.0,22
+13,"Software Construction","CS","100","7",,,5,"","",9.3,9,5.0,33
+14,"Physics","PHYS","040A","4",,,5,"","",4.0,2,4.0,4
+15,"Human/Social","Breadth","2",,,,4,"","",0.7,0,1.0,0
+16,"Logic Design","CS","120A","12",,,5,"","",4.0,1,5.0,5
+17,"Discrete Structures","CS","111","1",,,4,"","",8.7,8,5.0,31
+18,"Physics","PHYS","040B","4;14",,,5,"","",3.3,1,4.0,7
+19,"Human/Social","Breadth","3",,,,4,"","",0.7,0,1.0,0
+20,"Probability and Stats","STAT","155","7",,,4,"","",3.3,1,4.0,4
+21,"Physics","PHYS","040C","4;18",,,5,"","",2.7,0,4.0,0
+22,"Human/Social","Breadth","4",,,,4,"","",0.7,0,1.0,0
+23,"Intermediate Data Structures","CS","141","7;9;17",,,4,"","",4.7,1,6.0,15
+24,"Design of Comp Systsems","CS","161","16",,,4,"","",3.3,0,5.0,0
+25,"Multivariable Calc","MATH ","010A","7",,,4,"","",5.3,3,5.0,14
+26,"Human/Social","Breadth","5",,,,4,"","",0.7,0,1.0,0
+27,"Theory of Automata","CS","150","10;17",,,4,"","",4.0,1,5.0,10
+28,"Linear Algebra","MATH","31","7;25",,,5,"","",4.7,2,5.0,18
+29,"Technical Elective","CS","110","13",,,4,"","",2.7,0,4.0,0
+30,"Professional Dev","ENGR","101",,,,1,"","",0.7,0,1.0,0
+31,"Ouside Engineering","MATH","46","7",,,4,"","",2.0,0,3.0,0
+32,"Technical Communications","ENGR","180W",,,,4,"","",0.7,0,1.0,0
+33,"Design of Operating Systems","CS","153","13;12;17",,,4,"","",4.0,1,5.0,15
+34,"CS Project","CS","179(E-Z)","17",,,4,"","",2.7,0,4.0,0
+35,"Tech Elective","CS","135","13",,,4,"","",2.7,0,4.0,0
+36,"Bio","BIO","2",,,,4,"","",0.7,0,1.0,0
+37,"Tech Elective","CS","130","13;28",,,4,"","",3.3,0,5.0,0
+38,"Tech Elective","CS","160","13;12;17",,,4,"","",2.7,0,4.0,0
+39,"Compiler Design","CS","152","13;10;12;17",,,4,"","",2.7,0,4.0,0
+40,"Human/Social","Breadth","6",,,,4,"","",0.7,0,1.0,0
+41,"Tech Elective","CS","171","13;20;25;28",,,4,"","",3.3,0,5.0,0
+42,"Tech Elective","CS","181","13;27;12;17",,,4,"","",3.3,0,5.0,0
+43,"Tech Elective","CS","165","33;23",,,4,"","",4.0,0,6.0,0
+44,"Elective","","",,,,4,"","",0.7,0,1.0,0
+45,"Elective","","",,,,4,"","",0.7,0,1.0,0

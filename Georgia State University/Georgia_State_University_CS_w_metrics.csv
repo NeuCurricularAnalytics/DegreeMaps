@@ -1,0 +1,41 @@
+Curriculum,Georgia_State_University_CS,,,,,,,,,
+Institution,"Georgia State University",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Calculus of One Variable I","MATH","2211",,,,4,"","",27.0,20,7.0,0
+2,"Calculus of One Variable II","MATH","2212","1",,,4,"","",8.0,4,4.0,10
+3,"Principles of Computer Science I","CSC","1301","1",,,4,"","",21.0,14,7.0,49
+4,"Principles of Computer Science II","CSC","1302","3",,,4,"","",19.0,12,7.0,46
+5,"Discrete Mathematics","MATH","2420",,,,3,"","",17.0,12,5.0,0
+6,"Ethical and Social Issues in Computing (Area F)","CSC","2920","3",,,3,"","",3.0,0,3.0,0
+7,"Public Speaking (Area F)","SCOM","1500",,,,3,"","",1.0,0,1.0,0
+8,"Principles of Physics I (Area F)","PHYS","2211K","1",,,4,"","",4.0,1,3.0,3
+9,"Principles of Physics II (Area F)","PHYS","2212K","2;8",,,4,"","",3.0,0,3.0,0
+10,"Astronomy of the Solar System (Area F)","ASTR","1010K",,,,4,"","",1.0,0,1.0,0
+11,"Linear Algebra I","MATH","2641","2",,,3,"","",3.0,0,3.0,0
+12,"Applied Probability and Statistics for Computer Science","MATH","3020","2",,,3,"","",5.0,1,4.0,4
+13,"Software Development-CTW","CSC","3350","14",,,4,"","",9.0,2,7.0,17
+14,"Data Structures","CSC","2720","5;4;1",,,3,"","",13.0,6,7.0,50
+15,"Computer Organization and Programming","CSC","3210","5;4",,,4,"","",6.0,1,5.0,8
+16,"System-Level Programming","CSC","3320","5;4",,,3,"","",8.0,3,5.0,24
+17,"Operating Systems","CSC","4320","16",,,4,"","",5.0,0,5.0,0
+18,"Capstone Senior Design I-CTW","CSC","4351","13",,,2,"","",8.0,1,7.0,17
+19,"Capstone Senior Design II-CTW","CSC","4352","18",,,2,"","",7.0,0,7.0,0
+20,"Design and Analysis of Algorithms","CSC","4520","12;14",,,4,"","",5.0,0,5.0,0
+21,"Computer Organization and Programming (CSC Elective)","CSC","3210","5;4",,,4,"","",4.0,0,4.0,0
+22,"Ethical Hacking (CSC Elective)","CSC","4224","16;14",,,4,"","",5.0,0,5.0,0
+23,"Compilers (CSC Elective)","CSC","4340","15;14",,,4,"","",5.0,0,5.0,0
+24,"Web Programming (CSC Elective)","CSC","4370","16",,,4,"","",5.0,0,5.0,0
+25,"Principles of Programming for Data Science I","DSCI","1301",,,,4,"","",3.0,1,2.0,0
+26,"Principles of Programming for Data Science II","DSCI","1302","25",,,4,"","",2.0,0,2.0,0
+27,"(General Elective)","XX","XX",,,,3,"","",1.0,0,1.0,0
+28,"(General Elective)","XX","XX",,,,3,"","",1.0,0,1.0,0
+29,"(General Elective)","XX","XX",,,,3,"","",1.0,0,1.0,0
+30,"(General Elective)","XX","XX",,,,4,"","",1.0,0,1.0,0
+31,"(General Elective)","XX","XX",,,,4,"","",1.0,0,1.0,0
+32,"(General Elective)","XX","XX",,,,4,"","",1.0,0,1.0,0
+33,"(General Elective)","XX","XX",,,,3,"","",1.0,0,1.0,0
+34,"(General Elective)","XX","XX",,,,3,"","",1.0,0,1.0,0

@@ -1,0 +1,45 @@
+Curriculum,Columbia_CS,,,,,,,,,
+Institution,"Columbia University",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Introduction to Computing for Engineers and Applied Scientists","ENGI","E1006",,,,3,"","",1.0,0,1.0,0
+2,"Intro to CS and Programming in Java","COMS","W1004",,,,3,"","",13.0,9,4.0,0
+3,"Data Structures in Java","COMS","W3134","2",,,3,"","",6.0,3,3.0,9
+4,"Advanced Programming","COMS","W3157","3",,,4,"","",3.0,0,3.0,0
+5,"Discrete Mathematics","COMS","W3203","2",,,4,"","",8.0,4,4.0,10
+6,"Computational Linear Algebra","COMS","W3251",,,,4,"","",1.0,0,1.0,0
+7,"Computer Science Theory","COMS","W3261","5",,,3,"","",5.0,1,4.0,4
+8,"Fundamentals of Computer Systems","CSEE","W3827","2",,,3,"","",2.0,0,2.0,0
+9,"(Foundations of CS required) Analysis of Algorithms","CSOR","W4231","5;3",,,3,"","",3.0,0,3.0,0
+10,"(Foundations of CS required) Introduction to Computational Complexity","COMS","W4236","7",,,3,"","",4.0,0,4.0,0
+11,"(Foundations of CS elective) Graph Theory","COMS","W4203","5",,,3,"","",3.0,0,3.0,0
+12,"(Foundations of CS elective) Introduction to Cryptography","COMS","W4261",,,,3,"","",1.0,0,1.0,0
+13,"(CS Breadth Elective) Artifical Intelligence","COMS","W4701","3",,,3,"","",3.0,0,3.0,0
+14,"Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+15,"Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+16,"Calc III","MATH","UN1201","17",,,3,"","",2.0,0,2.0,0
+17,"Calc I","MATH","UN1101",,,,3,"","",3.0,1,2.0,0
+18,"Eurpn Lit-Philsos Masterpiecs 1","HUMA","CC1001",,,,4,"","",3.0,1,2.0,0
+19,"Eurpn Lit-Philsos Masterpiecs 2","HUMA","CC1002","18",,,4,"","",2.0,0,2.0,0
+20,"Frontiers Of Science","SCNC","CC1000",,"21",,4,"","",2.0,0,2.0,0
+21,"Frontiers Of Science Disc","SCNC","CC1100",,,,0,"","",3.0,1,2.0,0
+22,"University Writing","ENGL","CC1010",,,,3,"","",1.0,0,1.0,0
+23,"Contemp Western Civilization 1","COCI","CC1101",,,,4,"","",1.0,0,1.0,0
+24,"Contemp Western Civilization 2","COCI","CC1102",,,,4,"","",1.0,0,1.0,0
+25,"Masterpieces Of Western Art","HUMA","UN1121",,,,3,"","",1.0,0,1.0,0
+26,"Masterpieces Of Western Music","HUMA","UN1123",,,,3,"","",1.0,0,1.0,0
+27,"Core Curriculum Scince Requirement","XX","XX",,,,3,"","",1.0,0,1.0,0
+28,"Core Curriculum Scince Requirement","XX","XX",,,,4,"","",1.0,0,1.0,0
+29,"Core Curriculum Golbal Core Requirment","XX","XX",,,,3,"","",1.0,0,1.0,0
+30,"Core Curriculum Global Core Requirment","XX","XX",,,,3,"","",1.0,0,1.0,0
+31,"Core Curriculum Foreign Language Requirement","XX","XX",,,,3,"","",1.0,0,1.0,0
+32,"Core Curriculum Foreign Language Requirement","XX","XX",,,,3,"","",1.0,0,1.0,0
+33,"Core Curriculum Physical Education Requirment","XX","XX",,,,3,"","",1.0,0,1.0,0
+34,"Core Curriculum Physical Education Requirment","XX","XX",,,,3,"","",1.0,0,1.0,0
+35,"Elective","XX","XX",,,,4,"","",1.0,0,1.0,0
+36,"Elective","XX","XX",,,,4,"","",1.0,0,1.0,0
+37,"Elective","XX","XX",,,,4,"","",1.0,0,1.0,0
+38,"Elective","XX","XX",,,,4,"","",1.0,0,1.0,0

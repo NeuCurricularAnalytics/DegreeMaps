@@ -1,0 +1,49 @@
+Curriculum,Howard_University_CS,,,,,,,,,
+Institution,"Howard University",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Explorations in Computer Science","CSCI","120",,,,2,"","",1.0,0,1.0,0
+2,"(Non-Technical Elective)","XX","XX",,,,3,"","",1.0,0,1.0,0
+3,"Freshman Composition I(English Writing Course)","ENGL","2",,,,4,"","",3.0,1,2.0,0
+4,"Science Lecture A","XX","XX",,"5",,4,"","",2.0,0,2.0,0
+5,"Science Lecture A","XX","XX",,,,0,"","",3.0,1,2.0,0
+6,"Intro to Computer Science","CSCI","100",,,,3,"","",1.0,0,1.0,0
+7,"Computer Science I","CSCI","135",,,,4,"","",18.0,13,5.0,0
+8,"Unix Lab","CSCI","211",,,,1,"","",1.0,0,1.0,0
+9,"Calculus I","MATH","156",,,,4,"","",10.0,5,5.0,0
+10,"Freshman Composition II (English Writing Course)","ENGL","3",,,,3,"","",3.0,1,2.0,0
+11,"Principles of Speech","SLMC","101",,,,3,"","",1.0,0,1.0,0
+12,"Computer Science II","CSCI","136","7",,,3,"","",12.0,8,4.0,20
+13,"Computer Orgization I","CSCI","201","7",,,3,"","",10.0,5,5.0,12
+14,"Calculus II","MATH","157","9",,,4,"","",9.0,4,5.0,8
+15,"Science Lecture B","XX","XX",,"16",,4,"","",2.0,0,2.0,0
+16,"Science Lab B","XX","XX",,,,0,"","",3.0,1,2.0,0
+17,"Theory of Computation","CSCI","341","12;40",,,3,"","",6.0,1,5.0,9
+18,"Operating Systems ","CSCI","401","39;28",,,3,"","",4.0,0,4.0,0
+19,"Fundamentals of Algorithms","CSCI","470","37",,,3,"","",4.0,0,4.0,0
+20,"Computer Networks","CSCI","449",,,,3,"","",1.0,0,1.0,0
+21,"Intro to Cyber Secuirty I","CSCI","453",,,,3,"","",1.0,0,1.0,0
+22,"Structure of Programming Langueses","CSCI","350","13;17",,,3,"","",5.0,0,5.0,0
+23,"(Technical Elective)","XX","XX",,,,3,"","",1.0,0,1.0,0
+24,"Database Systems","CSCI","432","37",,,3,"","",4.0,0,4.0,0
+25,"Technical Writing, Pre Professional","ENGL","9","10;3",,,3,"","",2.0,0,2.0,0
+26,"Introducation to Linear Algebra","MATH","180","14",,,3,"","",3.0,0,3.0,0
+27,"Senoir Project I","CSCI","491","39",,,3,"","",6.0,1,5.0,5
+28,"Large Scale Programming","CSCI","363","12",,,3,"","",5.0,1,4.0,4
+29,"Applied Data Science","CSCI","473",,,,3,"","",1.0,0,1.0,0
+30,"(Technical Elective)","XX","XX",,,,3,"","",1.0,0,1.0,0
+31,"(Technical Elective)","XX","XX",,,,3,"","",1.0,0,1.0,0
+32,"Senoir Project II","CSCI","492","27",,,3,"","",5.0,0,5.0,0
+33,"(Technical Elective)","XX","XX",,,,3,"","",1.0,0,1.0,0
+34,"(Technical Elective)","XX","XX",,,,3,"","",1.0,0,1.0,0
+35,"(Non-Technical Elective)","XX","XX",,,,3,"","",1.0,0,1.0,0
+36,"(Non-Technical Elective)","XX","XX",,,,3,"","",1.0,0,1.0,0
+37,"Computer Science II","CSCI","354","12",,,3,"","",7.0,3,4.0,12
+38,"Softwear Engineering","CSCI","375","37",,,3,"","",4.0,0,4.0,0
+39,"Computer Orgization II","CSCI","202","13",,,3,"","",8.0,3,5.0,9
+40,"Discrete Structures","MATH","181","14",,,3,"","",7.0,2,5.0,5
+41,"Science Lecture B","XX","XX",,"42",,4,"","",2.0,0,2.0,0
+42,"Science Lab B","XX","XX",,,,0,"","",3.0,1,2.0,0

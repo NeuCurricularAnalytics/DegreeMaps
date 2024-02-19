@@ -1,0 +1,43 @@
+Curriculum,CUNY_Lehman_CS,,,,,,,,,
+Institution,"CUNY Lehman",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Calculus I","MAT","175",,,"17",4,"","",18.0,12,6.0,42
+2,"Calculus II","MAT","176","1",,"18",4,"","",6.0,2,4.0,14
+3,"Elements of Linear Algebra","MAT","313","2",,,4,"","",4.0,0,4.0,0
+4,"Probability and Statistics (Math Elective)","MAT","330","2",,,4,"","",4.0,0,4.0,0
+5,"Programming Methods I","CMP","167","1",,,3,"","",14.0,8,6.0,34
+6,"Programming Methods II","CMP","168","5",,,4,"","",13.0,7,6.0,34
+7,"Elementary Discrete Sctrutures & Applications to Computer Science","CMP","232","19",,,4,"","",12.0,8,4.0,35
+8,"Computer Organization","CMP","334","7",,,4,"","",8.0,4,4.0,16
+9,"Data Structures and Algorithms I","CMP","338","6;7",,,4,"","",10.0,4,6.0,40
+10,"Introduction to Networks","CMP","405","9;8",,,3,"","",6.0,0,6.0,0
+11,"Database Systems","CMP","420","9",,,4,"","",6.0,0,6.0,0
+12,"Operating Systems","CMP","426","9;8",,,4,"","",6.0,0,6.0,0
+13,"Programming Languages (CS Elective)","CMP","339","9;8",,,4,"","",6.0,0,6.0,0
+14,"Computability Theory (CS Elective)","CMP","416","6;7",,,4,"","",5.0,0,5.0,0
+15,"Full Stack Development (CS Elective)","CMP","343","8",,,4,"","",4.0,0,4.0,0
+16,"Object Oriented Techniques (CS Elective)","CMP","346","6",,,4,"","",5.0,0,5.0,0
+17,"Calculus I Laboratory","MAT","155",,,,1,"","",19.0,13,6.0,0
+18,"Calculus II Laboratory","MAT","156",,,,1,"","",6.0,3,3.0,0
+19,"Precalculus","MAT","172",,,,4,"","",13.0,9,4.0,0
+20,"English Composition I","ENG","111",,,,3,"","",3.0,1,2.0,0
+21,"English Composition II","ENG","121","20",,,3,"","",2.0,0,2.0,0
+22,"Human Evolutionary Biology (General Ed)","ANT","120",,,,3,"","",1.0,0,1.0,0
+23,"Introduction to the Universe (General Ed)","ANT","102",,,,4,"","",1.0,0,1.0,0
+24,"Human Biology of Systems (General Ed)","BIO","173",,,,3,"","",1.0,0,1.0,0
+25,"Elements of Chemisty I (General Ed)","CHE","137",,,,3,"","",1.0,0,1.0,0
+26,"Conceptual Physics (General Ed)","PHY","131",,,,3,"","",1.0,0,1.0,0
+27,"Sound Speech and Music (General Ed)","PHY","141",,,,3,"","",1.0,0,1.0,0
+28,"Energy and the Environment (General Ed)","PHY","151",,,,3,"","",1.0,0,1.0,0
+29,"General Ed Forgin Language","XX","XX",,,,3,"","",1.0,0,1.0,0
+30,"General Ed Forgin Language","XX","XX",,,,3,"","",1.0,0,1.0,0
+31,"Flexible Core World Cultures","XX","XX",,,,3,"","",1.0,0,1.0,0
+32,"Flexible Core Diversity","XX","XX",,,,3,"","",1.0,0,1.0,0
+33,"Flexible Core Creative Expression","XX","XX",,,,3,"","",1.0,0,1.0,0
+34,"Flexible Core Individual and Society","XX","XX",,,,3,"","",1.0,0,1.0,0
+35,"Flexible Core Scientific World","XX","XX",,,,3,"","",1.0,0,1.0,0
+36,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0

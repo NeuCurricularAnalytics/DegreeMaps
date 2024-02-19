@@ -1,0 +1,45 @@
+Curriculum,U_of_Georgia,,,,,,,,,
+Institution,"University of Georgia",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Calculus of One Varible","MATH","2211",,,,4,"","",28.0,21,7.0,0
+2,"Calculus of One Varible II","MATH","2212","1",,,4,"","",9.0,4,5.0,8
+3,"Principles of Computer Science I","CSC","1301","1",,,4,"","",23.0,16,7.0,68
+4,"Principles of Computer Science II","CSC","1302","3",,,4,"","",22.0,15,7.0,68
+5,"Theoretical Foundations of Computer Science","CSC","2510","1",,,3,"","",21.0,15,6.0,55
+6,"Area F Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+7,"Linearl Algebra I","MATH","2641","2",,,3,"","",3.0,0,3.0,0
+8,"Applied Probability and Statistics for Computer Science ","MATH","3020","2",,,3,"","",7.0,2,5.0,5
+9,"Data Structures","CSC","2720","5;4;1",,,3,"","",16.0,9,7.0,81
+10,"Software Development","CSC","3350","9",,,4,"","",9.0,2,7.0,18
+11,"Computer Organization and Programming","CSC","3210","5;4",,,4,"","",8.0,3,5.0,27
+12,"System Level Programming","CSC","3320","5;4",,,3,"","",9.0,4,5.0,36
+13,"Operating Systems","CSC","4320","12",,,4,"","",5.0,0,5.0,0
+14,"Capstone Senoir Design I-CTW","CSC","4351","10",,,2,"","",8.0,1,7.0,18
+15,"Capstone Senoir Design II-CTW","CSC","4352","14",,,2,"","",7.0,0,7.0,0
+16,"Design and Analysis of Algorithms","CSC","4520","9;8",,,4,"","",7.0,1,6.0,20
+17,"Computer Architecture (CS Elective)","CSC","4210","11",,,4,"","",5.0,0,5.0,0
+18,"Fundamentals of Cybersecurity (CS Elective)","CSC","4222","9;12",,,4,"","",5.0,0,5.0,0
+19,"Programming Language Concepts (CS Elective)","CSC","4330","11;9;12",,,4,"","",5.0,0,5.0,0
+20,"Compilers (CS Elective)","CSC","4340","11;9",,,4,"","",5.0,0,5.0,0
+21,"Web Programming (CS Elective)","CSC","4370","12",,,4,"","",5.0,0,5.0,0
+22,"Big Data Programming (CS Elective)","CSC","4760","9",,,4,"","",5.0,0,5.0,0
+23,"Machine Learning (CS Elective)","CSC","4850","16",,,4,"","",6.0,0,6.0,0
+24,"English Composition I","ENGL","1101",,,,3,"","",3.0,1,2.0,0
+25,"English Composition II","ENGL","1102","24",,,3,"","",2.0,0,2.0,0
+26,"Instituational Foundations Gen Ed","XX","XX",,,,2,"","",1.0,0,1.0,0
+27,"Instituational Foundations Gen Ed","XX","XX",,,,2,"","",1.0,0,1.0,0
+28,"Humanities Gen Ed","XX","XX",,,,3,"","",1.0,0,1.0,0
+29,"Fine Arts Gen Ed","XX","XX",,,,3,"","",1.0,0,1.0,0
+30,"Introductory Physics I (Science Gen Ed)","PHYS","1111",,,"31",3,"","",4.0,1,3.0,3
+31,"Introductory Physics I Lab (Science Gen Ed)","PHYS","1111L",,,,1,"","",5.0,2,3.0,0
+32,"Introductory Physics II (Science Gen Ed)","PHYS","1112","30",,"33",3,"","",3.0,0,3.0,0
+33,"Introductory Physics II Lab (Science Gen Ed)","PHYS","1112L",,,,1,"","",3.0,1,2.0,0
+34,"Survery of United States History (Gen Ed)","HIST","2110",,,,3,"","",1.0,0,1.0,0
+35,"Introduction to American Government (Gen Ed)","POLS","1101",,,,3,"","",1.0,0,1.0,0
+36,"Global Issues Gen Ed","XX","XX",,,,3,"","",1.0,0,1.0,0
+37,"Social Science Gen Ed","XX","XX",,,,3,"","",1.0,0,1.0,0
+38,"Free Elective","XX","XX",,,,2,"","",1.0,0,1.0,0

@@ -1,0 +1,51 @@
+Curriculum,NC_Raleigh_CS,,,,,,,,,
+Institution,"North Carolina University at Raleigh",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Calculus I","MA","141",,,,4,"","",25.0,19,6.0,0
+2,"Calculus II","MA","241","1",,,4,"","",8.0,5,3.0,15
+3,"Calculus III","MA","242","2",,,4,"","",3.0,0,3.0,0
+4,"Introductory Linear Algebra and Matrices","MA","305","2",,,3,"","",3.0,0,3.0,0
+5,"Probability and Statistics for Engineers","ST","370","2",,,3,"","",3.0,0,3.0,0
+6,"Chemistry - A Molecular Science ","CH","101",,,"7",3,"","",2.0,0,2.0,0
+7,"General Chemistry Lab","CH","102",,,,1,"","",3.0,1,2.0,0
+8,"Physics for Engineers and Scientists I","PY","205","1",,"9",3,"","",4.0,1,3.0,6
+9,"Physics for Engineers and Scientists I Lab","PY","206",,,,1,"","",5.0,2,3.0,0
+10,"Physics for Engineers and Scientists II","PY","208","2;8",,"11",3,"","",3.0,0,3.0,0
+11,"Physics for Engineers and Scientists II Lab","PY","209",,,,1,"","",3.0,1,2.0,0
+12,"(Science Elective)","XX","XX",,,,3,"","",1.0,0,1.0,0
+13,"Introduction to Computing - Java","CSC","116","25;1",,,3,"","",16.0,10,6.0,64
+14,"Software Development Fundamentals","CSC","216","13",,"15",3,"","",15.0,9,6.0,90
+15,"Software Development Fundamentals Lab","CSC","217",,,,1,"","",15.0,10,5.0,0
+16,"Discrete Mathematics for Computer Scientists ","CSC","226",,,,3,"","",10.0,6,4.0,0
+17,"C and Software Tools","CSC","230","14",,,3,"","",10.0,4,6.0,34
+18,"Concepts and Facilities of Operating Systems for Computer Scientists","CSC","246","17",,,3,"","",7.0,1,6.0,17
+19,"Data Structures and Algorithms","CSC","316","16;14",,,3,"","",10.0,4,6.0,55
+20,"Software Engineering","CSC","326","17;19",,,4,"","",7.0,1,6.0,38
+21,"Automata, Grammars, and Computability","CSC","333","16",,,3,"","",2.0,0,2.0,0
+22,"Ethics in Computing","CSC","379",,,,1,"","",1.0,0,1.0,0
+23,"Senior Design Project","CSC","492","20",,,3,"","",6.0,0,6.0,0
+24,"Free Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+25,"Introduction to Computing Enviroments","E","115",,,,1,"","",18.0,12,6.0,0
+26,"Engineering in the 21st Century","E","102","27",,,2,"","",2.0,0,2.0,0
+27,"Introduction to Engineering & Problem Solving","E","101",,,,1,"","",3.0,1,2.0,0
+28,"Applied Web-based Client-server Computing (CSC Restricted Elective)","CSC","342","14",,,3,"","",4.0,0,4.0,0
+29,"Computer Security (CSC Restricted Elective)","CSC","405","18",,,3,"","",6.0,0,6.0,0
+30,"Database Management Systems (CSC Restricted Elective)","CSC","440","19",,,3,"","",5.0,0,5.0,0
+31,"Human Computer Interaction (CSC Restricted Elective)","CSC","454","19",,,3,"","",5.0,0,5.0,0
+32,"String Processing Languages (Restircted Elective 200+)","CSC","255",,,,3,"","",1.0,0,1.0,0
+33,"Web Page Development (Restircted Elective 200+)","CSC","251","25",,,3,"","",2.0,0,2.0,0
+34,"Engineering Economic Analysis (Restricted Elective 300+)","ISE","311","1",,,3,"","",2.0,0,2.0,0
+35,"Theory of Numbers (Restricted Elective 300+)","MA","410","2",,,3,"","",3.0,0,3.0,0
+36,"Communication for Engineering and Technology","ENG","331",,,,3,"","",1.0,0,1.0,0
+37,"Fundamentals of Economics","EC","205",,,,3,"","",1.0,0,1.0,0
+38,"Academic Writing and Research","ENG","101",,,,4,"","",1.0,0,1.0,0
+39,"GEP Humanities","XX","XX",,,,3,"","",1.0,0,1.0,0
+40,"GEP Humanities","XX","XX",,,,3,"","",1.0,0,1.0,0
+41,"GEP Social Science","XX","XX",,,,3,"","",1.0,0,1.0,0
+42,"GEP Additional Breadth","XX","XX",,,,3,"","",1.0,0,1.0,0
+43,"GEP Interdisiplinary Perspectives","XX","XX",,,,3,"","",1.0,0,1.0,0
+44,"GEP Health and Exercise Studies","XX","XX",,,,2,"","",1.0,0,1.0,0

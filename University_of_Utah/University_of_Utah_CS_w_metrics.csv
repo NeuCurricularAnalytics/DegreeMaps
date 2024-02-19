@@ -1,0 +1,44 @@
+Curriculum,University_of_Utah_CS,,,,,,,,,
+Institution,"University of Utah",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Intermediate Writing","WRTG","2010",,,,3,"","",7.0,3,4.0,0
+2,"Professional Writing","WRTG","3015","1",,,3,"","",6.0,2,4.0,4
+3,"Calculus I","MATH","1210",,,,4,"","",30.0,22,8.0,0
+4,"Calculus II","MATH","1220","3",,,4,"","",28.0,20,8.0,76
+5,"Intro to Computer Programming","CS","1400",,"3",,3,"","",26.0,18,8.0,70
+6,"Intro to Object Oriented Programming","CS","1410","5","4",,4,"","",25.0,17,8.0,140
+7,"Intro to Algorithms and Data Structure","CS","2420","6",,,4,"","",22.0,14,8.0,116
+8,"Engineering Probability and Statistics","CS","3130","4",,,3,"","",3.0,0,3.0,0
+9,"Linear Algebra","MATH","2270","4",,,4,"","",3.0,0,3.0,0
+10,"Physics for Science and Engineering","PHYS","2210",,,,4,"","",1.0,0,1.0,0
+11,"Science Electicve","XX","XX",,,,3,"","",1.0,0,1.0,0
+12,"Science Electicve","XX","XX",,,,3,"","",1.0,0,1.0,0
+13,"Discrete Structures","CS","2100","6;3",,,3,"","",10.0,4,6.0,32
+14,"Software Practice I","CS","3500","7",,,4,"","",17.0,9,8.0,80
+15,"Software Practive II","CS","3505","14",,,3,"","",11.0,3,8.0,30
+16,"Computer Organization ","CS","3810","7",,,4,"","",10.0,3,7.0,26
+17,"Algorithms","CS","4150","13;14",,,3,"","",8.0,1,7.0,30
+18,"Computer Systems","CS","4400","16",,,3,"","",8.0,1,7.0,14
+19,"Models of Computation (Theory Elective)","CS","3100","13",,,3,"","",7.0,1,6.0,16
+20,"Senoir Capstone Project - Design Phase","CS","4000","15;2",,,3,"","",9.0,1,8.0,20
+21,"Senoir Capstone Project \","CS","4500","20",,,3,"","",8.0,0,8.0,0
+22,"Designing Human Cebtered Experinces (CS Elective)","CS","3540","7",,,3,"","",5.0,0,5.0,0
+23,"Web Software Development I (CS Elective)","CS","3550","14",,,3,"","",6.0,0,6.0,0
+24,"Parallel Programming (CS Elective)","CS","4230","15;16",,,3,"","",7.0,0,7.0,0
+25,"Compiler Principles and Techniques (CS Elective)","CS","4470","18;19",,,3,"","",7.0,0,7.0,0
+26,"Computer Networks (CS Elective)","CS","4480","14",,,3,"","",6.0,0,6.0,0
+27,"Web Browser Internals (CS Elective)","CS","4560","14",,,3,"","",6.0,0,6.0,0
+28,"Advanced Algorithms (CS Elective)","CS","5150","17",,,3,"","",7.0,0,7.0,0
+29,"American Instituations","XX","XX",,,,3,"","",1.0,0,1.0,0
+30,"Fine Arts","XX","XX",,,,3,"","",1.0,0,1.0,0
+31,"Fine Arts","XX","XX",,,,3,"","",1.0,0,1.0,0
+32,"Humanities","XX","XX",,,,3,"","",1.0,0,1.0,0
+33,"Humanities","XX","XX",,,,3,"","",1.0,0,1.0,0
+34,"Behavioral Science","XX","XX",,,,3,"","",1.0,0,1.0,0
+35,"Behavioral Science","XX","XX",,,,3,"","",1.0,0,1.0,0
+36,"Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+37,"Elective","XX","XX",,,,4,"","",1.0,0,1.0,0

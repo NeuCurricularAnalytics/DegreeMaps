@@ -1,0 +1,49 @@
+Curriculum,Cal_State_Long_Beach,,,,,,,,,
+Institution,"California State Long Beach",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Calculus I (Engineering Pre Major)","MATH","122",,,,4,"","",34.0,28,6.0,0
+2,"Calculus II (Engineering Pre Major)","MATH","123","1",,,4,"","",7.0,3,4.0,8
+3,"Mechanics and Heat (Engineering Pre Major and Science Elective)","PHYS","151",,"1",,4,"","",2.0,0,2.0,0
+4,"Written Communication (Engineering Pre Major and GE)","XX","XX",,,,3,"","",3.0,1,2.0,0
+5,"Introduction to Computer Engineering and Computer Science","CECS","105",,,,1,"","",1.0,0,1.0,0
+6,"Introduction to Programming and Problem Solving","CECS","174",,"1",,3,"","",29.0,23,6.0,114
+7,"Digital Logic and Assembly Programming","CECS","225",,"6",,3,"","",9.0,3,6.0,6
+8,"Discrete Structures with Computing Applications","CECS","228","6;1",,,3,"","",18.0,12,6.0,78
+9,"Discrete Structures with Computing Applications II","CECS","229","2;8",,,3,"","",7.0,2,5.0,26
+10,"Data Structures","CECS","274","6",,,3,"","",18.0,12,6.0,37
+11,"Object Oriented Application Development","CECS","277","6",,,3,"","",15.0,9,6.0,28
+12,"Introduction to Engineering Profession","ENGR","101",,"1",,1,"","",4.0,1,3.0,3
+13,"Academic Success Skills","ENGR","102","12",,,1,"","",3.0,0,3.0,0
+14,"General Biology (Science Elective)","BIOL","200",,,,4,"","",1.0,0,1.0,0
+15,"System Programming","CECS","325","11;10",,,3,"","",8.0,2,6.0,12
+16,"Operating Systems","CECS","326","15;20",,,3,"","",7.0,1,6.0,18
+17,"Introduction to Networks and Distributed Computing","CECS","327","16",,,3,"","",6.0,0,6.0,0
+18,"Algorithms","CECS","328","10;8",,,3,"","",13.0,7,6.0,76
+19,"Concepts in Computer Science Theory","CECS","329","18",,,3,"","",7.0,1,6.0,17
+20,"Computer Architecture and Orgization","CECS","341","7",,,3,"","",8.0,2,6.0,6
+21,"Principles of Programming Languages","CECS","342","18",,,3,"","",5.0,0,5.0,0
+22,"Introduction to Software Engineering","CECS","343","11",,,3,"","",10.0,4,6.0,16
+23,"Introduction to Computer Security Principles","CECS","378","10;9",,,3,"","",5.0,0,5.0,0
+24,"Computer Science Senior Project I","CECS","491A","22;26","27;18",,3,"","",7.0,1,6.0,43
+25,"Computer Science Senior Project II","CECS","491B","24",,,3,"","",6.0,0,6.0,0
+26,"Computers, Ethics, and Society","ENGR","350",,,,3,"","",5.0,2,3.0,0
+27,"Database Fundamentals (Softwear Development Focus)","CECS","323","11;8",,,3,"","",8.0,2,6.0,17
+28,"Scientific Research Communication","ENGR","361","4",,,3,"","",2.0,0,2.0,0
+29,"Stochastic Computing","CECS","381","9",,,3,"","",5.0,0,5.0,0
+30,"Software Project Management and Testing (Softwear Development Focus)","CECS","443","22",,,3,"","",5.0,0,5.0,0
+31,"User Interface Design (Software Development Focus)","CECS","448","22",,,3,"","",5.0,0,5.0,0
+32,"Web Programming and Accessibility (Software Development Focus)","CECS","470","18",,,3,"","",5.0,0,5.0,0
+33,"Analysis of Algorithms (CS Elective)","CECS","428","18",,,3,"","",5.0,0,5.0,0
+34,"Theory of Computation (CS Elective)","CECS","419","19",,,3,"","",6.0,0,6.0,0
+35,"Arts: Arts, Cinema, Dance, Music, Theater (GE)","XX","XX",,,,3,"","",3.0,1,2.0,0
+36,"Humanities: Literature, Philosophy, LOTE (GE)","XX","XX",,,,3,"","",1.0,0,1.0,0
+37,"Explorations in the C1 Arts or C2 Humanities (GE)","XX","XX",,,,3,"","",1.0,0,1.0,0
+38,"Upper Division in Arts or Humanities","XX","XX","35",,,3,"","",2.0,0,2.0,0
+39,"US History - includes CA history (GE)","XX","XX",,,,3,"","",3.0,1,2.0,0
+40,"Constitution and American Ideals","XX","XX",,,,3,"","",1.0,0,1.0,0
+41,"Upper Division in Social Sciences","XX","XX","39",,,3,"","",2.0,0,2.0,0
+42,"Ethnic Studies (GE)","XX","XX",,,,3,"","",1.0,0,1.0,0

@@ -1,0 +1,40 @@
+Curriculum,UMASS-Amherst,,,,,,,,,
+Institution,"UMASS - Amherst",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.0701",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1," Introduction to Problem Solving with Computers","CMPSCI","121",,,,4,"","",20.0,14,6.0,0
+2,"Using Data Structures","CMPSCI","186","1",,,4,"","",19.0,13,6.0,61
+3,"Programming with Data Structures","CMPSCI","187","2",,,4,"","",18.0,12,6.0,61
+4,"Programming Methodology","CMPSCI","220","3",,,4,"","",11.0,5,6.0,21
+5,"Computer Systems Principles","CMPSCI","230","3",,,4,"","",4.0,0,4.0,0
+6,"Reasoning About Uncertainty","CMPSCI","240","17;3",,,4,"","",6.0,1,5.0,9
+7,"Introduction to Computation","CMPSCI","250","17;3",,,4,"","",9.0,3,6.0,22
+8,"Introduction to Algorithms","CMPSCI","311","7;3",,,4,"","",8.0,2,6.0,32
+9,"CS Elective","CMPSCI","320","4",,,4,"","",7.0,1,6.0,6
+10,"CS Elective","CMPSCI","383","4;6",,,4,"","",5.0,0,5.0,0
+11,"CS Elective","CMPSCI","345","3",,,4,"","",6.0,1,5.0,5
+12,"CS Elective","CMPSCI","445","4;11;8",,,4,"","",6.0,0,6.0,0
+13,"CS Elective","CMPSCI","466","8",,,4,"","",6.0,0,6.0,0
+14,"CS Elective","CMPSCI","520","9",,,4,"","",6.0,0,6.0,0
+15,"CS Elective","CMPSCI","326","4;3",,,4,"","",5.0,0,5.0,0
+16,"Calc I","MATH","131",,,,4,"","",14.0,9,5.0,0
+17,"Calc II","MATH","132","16",,,4,"","",13.0,8,5.0,20
+18,"Multivariate Calc","MATH","233","17",,,4,"","",3.0,0,3.0,0
+19,"Linear Algebra","MATH","235","17",,,4,"","",3.0,0,3.0,0
+20,"Sciences","CHEM","111",,,,4,"","",1.0,0,1.0,0
+21,"Sciences","GEOL","101",,,,4,"","",1.0,0,1.0,0
+22,"GenEd","GenEd","1",,,,3,"","",1.0,0,1.0,0
+23,"GenEd","GenEd","2",,,,3,"","",1.0,0,1.0,0
+24,"GenEd","GenEd","3",,,,3,"","",1.0,0,1.0,0
+25,"GenEd","GenEd","4",,,,3,"","",1.0,0,1.0,0
+26,"GenEd","GenEd","5",,,,3,"","",1.0,0,1.0,0
+27,"GenEd","GenEd","6",,,,3,"","",1.0,0,1.0,0
+28,"GenEd","GenEd","7",,,,3,"","",1.0,0,1.0,0
+29,"GenEd","GenEd","8",,,,3,"","",1.0,0,1.0,0
+30,"GenEd","GenEd","9",,,,3,"","",1.0,0,1.0,0
+31,"GenEd","GenEd","10",,,,3,"","",1.0,0,1.0,0
+32,"GenEd","GenEd","11",,,,3,"","",1.0,0,1.0,0
+33,"GenEd","GenEd","12",,,,3,"","",1.0,0,1.0,0

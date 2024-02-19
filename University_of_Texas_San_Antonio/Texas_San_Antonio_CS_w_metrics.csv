@@ -1,0 +1,46 @@
+Curriculum,Texas_San_Antonio_CS,,,,,,,,,
+Institution,"University of Texas San Antonio",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Academic Inquiry and Scholarship (First Year Experince)","AIS","1203",,,,3,"","",1.0,0,1.0,0
+2,"Freshman Composition I","WRC","1013",,,,3,"","",3.0,1,2.0,0
+3,"Freshman Composition II","WRC","1023","2",,,3,"","",2.0,0,2.0,0
+4,"Calculus I (Math Elective)","MAT","1214",,,,3,"","",24.0,18,6.0,0
+5,"Life and Physical Sciences","XX","XX",,,,3,"","",1.0,0,1.0,0
+6,"Life and Physical Sciences","XX","XX",,,,3,"","",1.0,0,1.0,0
+7,"Language, Philosopy, and Culutre","XX","XX",,,,3,"","",1.0,0,1.0,0
+8,"Creative Arts","XX","XX",,,,3,"","",1.0,0,1.0,0
+9,"American Hisotry","XX","XX",,,,3,"","",1.0,0,1.0,0
+10,"American Hisotry","XX","XX",,,,3,"","",1.0,0,1.0,0
+11,"Government-Political Science","XX","XX",,,,3,"","",1.0,0,1.0,0
+12,"Government-Political Science","XX","XX",,,,3,"","",1.0,0,1.0,0
+13,"Social and Behavioral Sciences","XX","XX",,,,3,"","",1.0,0,1.0,0
+14,"Component Area Option","XX","XX",,,,3,"","",1.0,0,1.0,0
+15,"Programming I for Computer Science","CS","1083",,,,3,"","",27.0,20,7.0,0
+16,"Computer Programming II","CS","1714","15",,,4,"","",25.0,18,7.0,76
+17,"Data Structures","CS","2124","16","4",,4,"","",22.0,15,7.0,114
+18,"Calculus II","MAT","1224","4",,,4,"","",8.0,3,5.0,5
+19,"Essence of Computer Science","CS","1011",,,,1,"","",1.0,0,1.0,0
+20,"Discrete Mathematical Structures","CS","2233","15",,,3,"","",8.0,4,4.0,10
+21,"Mathematical Foundation of Computer Science","CS","3333","16;18",,,3,"","",7.0,2,5.0,10
+22,"Analysis of Algorithms","CS","3343","20;21;17",,,3,"","",6.0,1,5.0,23
+23,"Systems Programming","CS","3424","17",,,4,"","",8.0,3,5.0,27
+24,"Application Programming","CS","3443","17",,,3,"","",15.0,8,7.0,71
+25,"Computer Organization","CS","3843","16",,,3,"","",6.0,2,4.0,8
+26,"Computer Architecture","CS","3853","25;17",,,3,"","",4.0,0,4.0,0
+27,"Operating Systems","CS","3733","25;24;23",,,3,"","",5.0,0,5.0,0
+28,"Software Engineering (Upper CS Elective)","CS","3773","24",,,3,"","",10.0,3,7.0,24
+29,"Programming Languages (Upper CS Elective)","CS","3723","20;24",,,3,"","",5.0,0,5.0,0
+30,"User Interfaces (Upper CS Elective)","CS","4393","24",,,3,"","",5.0,0,5.0,0
+31,"Web Technologies (Upper CS Elective)","CS","4413","23",,,3,"","",5.0,0,5.0,0
+32,"Senoir Design I (Upper CS Elective)","CS","4613","24;28",,,3,"","",8.0,1,7.0,24
+33,"Senoir Design II (Upper CS Elective)","CS","4623","32",,,3,"","",7.0,0,7.0,0
+34,"Secure Software Development and Analysis (Upper CS Elective)","CS","4683","24",,,3,"","",5.0,0,5.0,0
+35,"Object Oriented Systems (Upper CS Elective)","CS","4773","28",,,3,"","",6.0,0,6.0,0
+36,"Database Systems (Upper CS Elective)","CS","3743","20;23",,,3,"","",5.0,0,5.0,0
+37,"Artificial Intelligence (Upper CS Elective)","CS","3793","22",,,3,"","",5.0,0,5.0,0
+38,"Free Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+39,"Free Elective","XX","XX",,,,4,"","",1.0,0,1.0,0

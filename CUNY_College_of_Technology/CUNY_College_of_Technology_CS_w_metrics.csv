@@ -1,0 +1,26 @@
+Curriculum,CUNY_College_of_Technology_CS,,,,,,,,,
+Institution,"CUNY College of Technonogy",,,,,,,,,
+Degree Type,"AS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"English Composition I","ENG","1101",,,,3,"","",3.0,1,2.0,0
+2,"English Composition II","ENG","1121","1",,,3,"","",2.0,0,2.0,0
+3,"Life and Phsyical Sciences","XX","XX",,,,5,"","",1.0,0,1.0,0
+4,"World Culture and Global Issues","XX","XX",,,,3,"","",1.0,0,1.0,0
+5,"Us Experince in its Diversity","XX","XX",,,,3,"","",1.0,0,1.0,0
+6,"Individual and Society","XX","XX",,,,3,"","",1.0,0,1.0,0
+7,"Creative Experession","XX","XX",,,,3,"","",1.0,0,1.0,0
+8,"Flexible Common Core Course","XX","XX",,,,3,"","",1.0,0,1.0,0
+9,"Calculus I","MAT","1475",,,,4,"","",13.0,9,4.0,0
+10,"Introduction to Lineal Algebra","MAT","2580",,"12",,3,"","",3.0,0,3.0,0
+11,"Statistics with Probability","MAT","1372","9",,,3,"","",2.0,0,2.0,0
+12,"Calculus II","MAT","1575","9",,,4,"","",4.0,1,3.0,3
+13,"Discrete Structures and Algorithms I","MAT","2440","15;9",,,3,"","",5.0,1,4.0,11
+14,"Discrete Structures and Algorithms II","MAT","2540","13",,,3,"","",4.0,0,4.0,0
+15,"Introductory C++ Programming Language Part I","CST","2403","9;17",,,3,"","",9.0,5,4.0,24
+16,"C++ Programming Part II","CST","3503","15",,,3,"","",6.0,2,4.0,16
+17,"Problem Solving with Computer Programming","CST","1101",,,,3,"","",10.0,6,4.0,0
+18,"Object Oriented Programming (Program Elective)","CST","3603","16",,,3,"","",4.0,0,4.0,0
+19,"Data Structures (Program Elective)","CST","3650","16",,,3,"","",4.0,0,4.0,0

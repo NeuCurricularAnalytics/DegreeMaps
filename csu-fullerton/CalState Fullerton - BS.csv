@@ -1,0 +1,45 @@
+Curriculum,CalState Fullerton - BS,,,,,,,,,
+Institution,"California State - Fullerton",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.0701",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Intro to Programming","CPSC","120",,,,3,"","",25.0,19,6.0,0
+2,"OOP","CPSC","121","1",,,3,"","",24.0,18,6.0,50
+3,"Data Structures","CPSC","131","2",,,3,"","",22.0,16,6.0,46
+4,"Python Programming","CPSC","223P","3",,,3,"","",4.0,0,4.0,0
+5,"Computer Org","CPSC","240","24;3",,,3,"","",4.0,0,4.0,0
+6,"Ethics","CPSC","315","30",,,3,"","",2.0,0,2.0,0
+7,"Compilers","CPSC","323","3",,,3,"","",4.0,0,4.0,0
+8,"Files and Databases","CPSC","332","3",,,3,"","",6.0,1,5.0,5
+9,"Algorithms","CPSC","335","25;3",,,3,"","",6.0,1,5.0,9
+10,"OS concepts","CPSC","351","3",,,3,"","",6.0,1,5.0,5
+11,"Comp Security","CPSC","353","3",,,3,"","",4.0,0,4.0,0
+12,"Software Engineering","CPSC","362","3",,,3,"","",8.0,2,6.0,6
+13,"Computer Com","CPSC","471","10",,,3,"","",5.0,0,5.0,0
+14,"Artificial Intelligence","CPSC","481","9;26",,,3,"","",5.0,0,5.0,0
+15,"Seminar","CPSC","490","12",,,3,"","",7.0,1,6.0,6
+16,"Capstone","CPSC","491","15",,,3,"","",6.0,0,6.0,0
+17,"CS Telective","CPSC","411","3",,,3,"","",4.0,0,4.0,0
+18,"CS Telective","CPSC","449","8",,,3,"","",5.0,0,5.0,0
+19,"CS Telective","CPSC","386","2",,,3,"","",5.0,1,4.0,4
+20,"CS Telective","CPSC","484","25;3;23",,,3,"","",6.0,1,5.0,13
+21,"CS Telective","CPSC","486","20;19",,,3,"","",5.0,0,5.0,0
+22,"Calc I","MATH","150A",,,,4,"","",9.0,5,4.0,0
+23,"Calc II","MATH","150B","22",,,4,"","",8.0,4,4.0,8
+24,"Math Struc I","MATH","270A",,,,3,"","",10.0,6,4.0,0
+25,"Math Struct II","MATH","270B","24",,,3,"","",8.0,4,4.0,8
+26,"Stats","MATH","338","23",,,4,"","",5.0,1,4.0,4
+27,"Cell Bio","BIOL","151",,,,4,"","",1.0,0,1.0,0
+28,"Intro to Geo","GEOL","101/101L",,,,4,"","",1.0,0,1.0,0
+29,"Linear Algebra","MATH","250B",,,,4,"","",1.0,0,1.0,0
+30,"Writing","CPSC","131",,,,3,"","",3.0,1,2.0,0
+31,"Gen Ed","gened","2",,,,3,"","",1.0,0,1.0,0
+32,"Gen Ed","gened","3",,,,3,"","",1.0,0,1.0,0
+33,"Gen Ed","gened","4",,,,3,"","",1.0,0,1.0,0
+34,"Gen Ed","gened","5",,,,3,"","",1.0,0,1.0,0
+35,"Gen Ed","gened","6",,,,3,"","",1.0,0,1.0,0
+36,"Gen Ed","gened","7",,,,3,"","",1.0,0,1.0,0
+37,"Gen Ed","gened","8",,,,3,"","",1.0,0,1.0,0
+38,"Gen Ed","gened","9",,,,3,"","",1.0,0,1.0,0

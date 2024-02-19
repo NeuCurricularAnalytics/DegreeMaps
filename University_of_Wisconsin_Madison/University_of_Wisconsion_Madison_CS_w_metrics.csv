@@ -1,0 +1,45 @@
+Curriculum,University_of_Wisconsion_Madison_CS,,,,,,,,,
+Institution,"University of Wisconsion Madison",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Calculus and Analytic Geometry I","MATH","221",,,,5,"","",9.0,6,3.0,0
+2,"Calculus and Analytic Geometry II","MATH","222","1",,,4,"","",5.0,2,3.0,6
+3,"Introduction to Discrete Mathematics","COMP SCI","240","1",,,3,"","",5.0,2,3.0,6
+4,"Introduction to Computer Engineering","COMP SCI","252",,,,3,"","",8.0,4,4.0,0
+5,"Programming I","COMP SCI","200",,,,3,"","",13.0,8,5.0,0
+6,"Programming II","COMP SCI","300","5",,,3,"","",10.0,5,5.0,24
+7,"Machine Organization and Programming","COMP SCI","354","4;6",,,3,"","",8.0,3,5.0,18
+8,"Programming III","COMP SCI","400","6",,,3,"","",8.0,3,5.0,14
+9,"Elemtary Matrix and Linear Algebra (Math Elective)","MATH","340","2",,,3,"","",3.0,0,3.0,0
+10,"Introductory Applied Statistics for Engineering (Math Elective)","STAT","324","1",,,3,"","",2.0,0,2.0,0
+11,"Introduction to Algorithms (CS Theory Elective)","COMP SCI","577","3",,,4,"","",3.0,0,3.0,0
+12,"Introduction to Programming Languages and Compliers (Software & Hardware Elective)","COMP SCI","536","7;8",,,3,"","",7.0,2,5.0,28
+13,"Software Engineering (Software & Hardware Elective)","COMP SCI","506","12;8",,,3,"","",5.0,0,5.0,0
+14,"Introduction to Numerical Methods (Applications Elective)","COMP SCI","412","5;2;3",,,3,"","",3.0,0,3.0,0
+15,"Introduction to Artificial Intelligence (CS Elective)","COMP SCI","539","5",,,3,"","",2.0,0,2.0,0
+16,"Natural Language and Computing (CS Elective)","COMP SCI","545","12",,,3,"","",5.0,0,5.0,0
+17,"Forgin Language","XX","XX",,,,3,"","",5.0,2,3.0,0
+18,"Forgin Language","XX","XX","17",,,3,"","",4.0,1,3.0,3
+19,"Forgin Language","XX","XX","18",,,3,"","",3.0,0,3.0,0
+20,"(Humanites)","XX","XX",,,,3,"","",1.0,0,1.0,0
+21,"(Humanites)","XX","XX",,,,3,"","",1.0,0,1.0,0
+22,"(Literature)","XX","XX",,,,3,"","",1.0,0,1.0,0
+23,"(Literature)","XX","XX",,,,3,"","",1.0,0,1.0,0
+24,"Social Science","XX","XX",,,,3,"","",1.0,0,1.0,0
+25,"Social Science","XX","XX",,,,3,"","",1.0,0,1.0,0
+26,"Social Science","XX","XX",,,,3,"","",1.0,0,1.0,0
+27,"Social Science","XX","XX",,,,3,"","",1.0,0,1.0,0
+28,"Natural Science","XX","XX",,,,3,"","",1.0,0,1.0,0
+29,"Natural Science","XX","XX",,,,3,"","",1.0,0,1.0,0
+30,"Natural Science","XX","XX",,,,3,"","",1.0,0,1.0,0
+31,"Natural Science","XX","XX",,,,3,"","",1.0,0,1.0,0
+32,"Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+33,"Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+34,"Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+35,"Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+36,"Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+37,"Elective","XX","XX",,,,4,"","",1.0,0,1.0,0
+38,"Elective","XX","XX",,,,4,"","",1.0,0,1.0,0

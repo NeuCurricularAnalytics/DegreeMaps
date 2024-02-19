@@ -1,0 +1,40 @@
+Curriculum,Montana_State_University_CSBS,,,,,,,,,,,,
+Institution,Montana State University,,,,,,,,,,,,
+Degree Type,BA,,,,,,,,,,,,
+System Type,semester,,,,,,,,,,,,
+CIP,11.0701,,,,,,,,,,,,
+Courses,,,,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,Joy and Beauty of Computing,CSCI,107,,,,4,,,1,0,1,0
+2,Calculus I,M,171Q,,,,4,,,15,12,3,0
+3,College Writing I,WRIT,101W,,,,3,,,3,1,2,0
+4,Joy and Beauty of Data,CSCI,127,,,,3,,,20,16,4,0
+5,Basic Data Structures and Algorithms,CSCI,132,4,,,4,,,17,13,4,63
+6,Calculus II,M,172,2,,,4,,,6,3,3,9
+7,Earth System Sciences,ERTH,466,,,,3,,,1,0,1,0
+8,Methods of Proof,M,242,6,,,4,,,3,0,3,0
+9,Social & Ethical Issues in Computer Science,CSCI,215CS,,,,3,,,1,0,1,0
+10,Discrete Structures,CSCI,246,2,5,,4,,,9,5,4,35
+11,Intermediate Tech Writing,WRIT,221,3,,,3,,,2,0,2,0
+12,Physics I with Calculus,PHSX,220,2,,,4,,,4,1,3,3
+13,Web Development,CSCI,331,,,,3,,,1,0,1,0
+14,Programming with C I,CSCI,112,4,,,3,,,6,3,3,9
+15,Data Structures and Algorithms,CSCI,232,5,,,4,,,14,10,4,40
+16,Statistics for Scientists and Engineers,STAT,332,6,,,3,,,3,0,3,0
+17,Database Systems,CSCI,440,15,,,3,,,4,0,4,0
+18,Networks,CSCI,322,15;14,,,3,,,4,0,4,0
+19,Software Engineering,ESOF,366,15,,,4,,,4,0,4,0
+20,Computer Systems,CSCI,423,15;14,,,3,,,4,0,4,0
+21,Software Engineering Applications,ESOF,242,6,,,6,,,3,0,3,0
+22,Computer Graphics,CSCI,441,15,,,3,,,4,0,4,0
+23,Concepts/Programming Languages,CSCI,338,5;10,,,3,,,4,0,4,0
+24,Computer Science Theory,CSCI,310R,15;10,,,6,,,4,0,4,0
+25,Introduction to Electrical Fundamentals,EELE,101,,,,3,,,1,0,1,0
+26,Intro To Logic Circuits,EELE,261,,,,6,,,1,0,1,0
+27,Introduction to Simulation,EIND,422,4,,,3,,,2,0,2,0
+28,Artificial Intelligence,CSCI,446,15;10,,,4,,,4,0,4,0
+29,Physics II with Calculus,PHSX,222,2;12,,,3,,,3,0,3,0
+30,Machine Learning,CSCI,447,15;10,,,4,,,4,0,4,0
+31,Compilers,CSCI,468,,,,3,,,1,0,1,0
+32,Computer Security,CSCI,476,15;14,,,4,,,4,0,4,0
+33,Advanced Algorithm Topics,CSCI,432,15;10,,,3,,,4,0,4,0

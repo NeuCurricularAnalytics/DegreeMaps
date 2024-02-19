@@ -1,0 +1,46 @@
+Curriculum,Villanova_University_CS,,,,,,,,,
+Institution,"Villanova University",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Encrichment Sem in Computing","CSC","1990",,,,1,"","",1.0,0,1.0,0
+2,"Algorithms & Data Struct I","CSC","1051",,,,4,"","",18.0,14,4.0,0
+3,"Algorithms & Data Struct II","CSC","1052","2",,,4,"","",15.0,11,4.0,25
+4,"Discrete Structures","CSC","1300",,,,3,"","",12.0,9,3.0,0
+5,"Analysis of Algorithms","CSC","1700","4;3",,,3,"","",5.0,1,4.0,7
+6,"Organ of Prog Languages","CSC","1800","4;3",,,3,"","",3.0,0,3.0,0
+7,"Platform Based Computing","CSC","2053","3",,,3,"","",5.0,1,4.0,4
+8,"Statistics for Computing","CSC","2300","4;2",,,3,"","",4.0,1,3.0,6
+9,"Computer Systems I","CSC","2400","4;3",,,3,"","",5.0,1,4.0,7
+10,"Computer Systems II","CSC","2405","9",,,3,"","",4.0,0,4.0,0
+11,"Theory of Computation","CSC","4170","5",,,3,"","",4.0,0,4.0,0
+12,"Principles of Database Systems","CSC","4480","4;2",,,3,"","",2.0,0,2.0,0
+13,"Softwear Engineering","CSC","4700","3",,,3,"","",5.0,1,4.0,4
+14,"Senior Projects","CSC","4790","13",,,3,"","",4.0,0,4.0,0
+15,"Computer Ethics","PHI","2180",,,,3,"","",1.0,0,1.0,0
+16,"Calculus I","MAT","1500",,,,4,"","",3.0,1,2.0,0
+17,"Linear Algebra for Computing","MAT","2400","16",,,4,"","",2.0,0,2.0,0
+18,"Natural Science with Lab","XX","XX",,,,4,"","",1.0,0,1.0,0
+19,"Natural Science with Lab","XX","XX",,,,4,"","",1.0,0,1.0,0
+20,"CS Elective (Overview of Cybersecurity)","CSC","3010",,,,3,"","",1.0,0,1.0,0
+21,"CS Elective (Information Retrival)","CSC","3400","4;3",,,3,"","",3.0,0,3.0,0
+22,"CS Elective (Applied Machine Learning)","CSC","4505","4;8;3",,,3,"","",3.0,0,3.0,0
+23,"CS Elective (Web Application Development)","CSC","4800","7",,,3,"","",4.0,0,4.0,0
+24,"Augustine and Culture Seminar","ACS","1000",,,,3,"","",1.0,0,1.0,0
+25,"Augustine and Culture Seminar","ACS","1001",,,,3,"","",1.0,0,1.0,0
+26,"Theology and Religious Studies","THL","1000",,,,3,"","",3.0,1,2.0,0
+27,"Philosophy","PHI","1000",,,,3,"","",1.0,0,1.0,0
+28,"Ethics","ETH","2050",,,,3,"","",1.0,0,1.0,0
+29,"Language Requirement I","XX","XX",,,,4,"","",1.0,0,1.0,0
+30,"Language Requirement II","XX","XX",,,,4,"","",1.0,0,1.0,0
+31,"Literature and Writing Seminar","XX","XX",,,,3,"","",1.0,0,1.0,0
+32,"History","XX","XX",,,,3,"","",1.0,0,1.0,0
+33,"Social Sciences","XX","XX",,,,3,"","",1.0,0,1.0,0
+34,"Social Sciences","XX","XX",,,,3,"","",1.0,0,1.0,0
+35,"Fine Arts","XX","XX",,,,3,"","",1.0,0,1.0,0
+36,"Theology and Religious Studies - Upper Division","THL","XX","26",,,3,"","",2.0,0,2.0,0
+37,"Diversity 1","XX","XX",,,,3,"","",1.0,0,1.0,0
+38,"Diversity 2","XX","XX",,,,3,"","",1.0,0,1.0,0
+39,"General Elective","XX","XX",,,,2,"","",1.0,0,1.0,0

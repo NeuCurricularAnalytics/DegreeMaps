@@ -1,0 +1,43 @@
+Curriculum,University_Of_Texas_CS,,,,,,,,,
+Institution,"University of Texas at Austin",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Differential and Integral Calculus","Math","408C",,,,4,"","",20.0,15,5.0,0
+2,"Sequences, Series, and Multivariable Calculus","Math","408D","1",,,4,"","",7.0,3,4.0,8
+3,"Matrices and Matrix Calculations","Math","340L","1",,,3,"","",4.0,1,3.0,3
+4,"Probability I","Math","362K","2",,,3,"","",6.0,2,4.0,8
+5,"Principles of Chemisty I","Chem","301",,,,3,"","",3.0,1,2.0,0
+6,"Principles of Chemisty II","Chem","302","5",,,3,"","",2.0,0,2.0,0
+7,"Upper Division Science Elective","XX","XX",,,,4,"","",1.0,0,1.0,0
+8,"Discrete Mathematics for Computer Science","Com Sci","311","10;1",,,3,"","",12.0,7,5.0,54
+9,"Algorithms and Complexity","Com Sci","331","4;12;3",,,3,"","",5.0,0,5.0,0
+10,"Introduction to Programming","Com Sci","312","1",,,3,"","",16.0,11,5.0,68
+11,"Data Structures","Com Sci","314","10",,,3,"","",14.0,9,5.0,38
+12,"Computer Organization and Architecture","Com Sci","429","11;8",,,4,"","",11.0,6,5.0,84
+13,"Principles of Computer Systems","Com Sci","439","12",,,4,"","",5.0,0,5.0,0
+14,"Upper Division CS Elective (Elements of Networking)","Com Sci","326E","11",,,4,"","",4.0,0,4.0,0
+15,"Upper Division CS Elective (Debugging & Verifying Programs)","Com Sci","340D","12",,,4,"","",5.0,0,5.0,0
+16,"Upper Division CS Elective (Elements of Software Engineering I)","Com Sci","330E","11",,,4,"","",4.0,0,4.0,0
+17,"Upper Division CS Elective (Principles of Computer Systems)","Com Sci","439","12",,,4,"","",5.0,0,5.0,0
+18,"Upper Division CS Elective (Neural Networks)","Com Sci","342","12",,,4,"","",5.0,0,5.0,0
+19,"Upper Division CS Elective (Artificial Intelligence)","Com Sci","343","4;12",,,4,"","",5.0,0,5.0,0
+20,"First year Signature Course","UGS","302",,,,3,"","",1.0,0,1.0,0
+21,"Rhtoric and Writing","RHE","306",,,,3,"","",3.0,1,2.0,0
+22,"Writing Flagged Course","XX","XX",,,,3,"","",1.0,0,1.0,0
+23,"American Literature","E","316M","21",,,3,"","",2.0,0,2.0,0
+24,"American Government","GOV","310L",,,,3,"","",1.0,0,1.0,0
+25,"Second Gov Course","GOV","XX",,,,3,"","",1.0,0,1.0,0
+26,"United States History","HIS","XX",,,,3,"","",1.0,0,1.0,0
+27,"United States History","HIS","XX",,,,3,"","",1.0,0,1.0,0
+28,"Social and Behavioral Sciences ","XX","XX",,,,3,"","",1.0,0,1.0,0
+29,"Mathematics","XX","XX",,,,3,"","",1.0,0,1.0,0
+30,"Natural Science and Tech I","XX","XX",,,,3,"","",1.0,0,1.0,0
+31,"Natural Science and Tech I","XX","XX",,,,3,"","",1.0,0,1.0,0
+32,"Natural Science and Tech II","XX","XX",,,,3,"","",1.0,0,1.0,0
+33,"Arts","XX","XX",,,,3,"","",1.0,0,1.0,0
+34,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+35,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+36,"General Elective","XX","XX",,,,4,"","",1.0,0,1.0,0

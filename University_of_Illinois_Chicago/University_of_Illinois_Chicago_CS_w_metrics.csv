@@ -1,0 +1,49 @@
+Curriculum,University_of_Illinois_Chicago_CS,,,,,,,,,
+Institution,"University of Illinois Chicago",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Academic Writing I: Writing in Academic and Public Contexts","ENGL","160",,,,3,"","",1.0,0,1.0,0
+2,"Academic Writing II: Writing for Inquiry and Research","ENGL","161",,,,3,"","",1.0,0,1.0,0
+3,"Exploring World Culture Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+4,"Understanding the Creative Arts Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+5,"Understaning the Past Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+6,"Understanding the Indivual and Society Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+7,"Understanding US Society Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+8,"Humanties Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+9,"Humanties Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+10,"Calculus I","MATH","180",,,,4,"","",29.0,23,6.0,0
+11,"Calculus II","MATH","181","10",,,4,"","",8.0,4,4.0,10
+12,"Calculus III","MATH","210","11",,,3,"","",3.0,0,3.0,0
+13,"Science Elective","XX","XX",,,,4,"","",1.0,0,1.0,0
+14,"Science Elective","XX","XX",,,,4,"","",1.0,0,1.0,0
+15,"Engineering Orientation","ENGR","100",,,,1,"","",1.0,0,1.0,0
+16,"Programing Design I","CS","111",,,,3,"","",25.0,19,6.0,0
+17,"Programming Design II","CS","141","16","10",,3,"","",22.0,16,6.0,278
+18,"Mathematical Foundations of Computing","CS","151","16;10",,,3,"","",17.0,12,5.0,74
+19,"Programming Practicum","CS","211","17",,,3,"","",20.0,14,6.0,170
+20,"Data Structures","CS","251","18;17","19",,4,"","",17.0,11,6.0,212
+21,"Machine Organization","CS","261","17","19",,4,"","",11.0,5,6.0,80
+22,"Technical and Professional Comminication in Computer Science","CS","277","17",,,3,"","",3.0,0,3.0,0
+23,"Languages and Automata","CS","301","18","20",,3,"","",7.0,1,6.0,40
+24,"Programming Language Design and Implementation","CS","341","20;21;19",,,3,"","",5.0,0,5.0,0
+25,"Software Design","CS","342","20;19",,,3,"","",7.0,1,6.0,42
+26,"Systems Programming","CS","361","20;21;19",,,4,"","",8.0,2,6.0,128
+27,"Computer Design","CS","362","21;19",,,4,"","",5.0,0,5.0,0
+28,"Ethical Issues in Computing","CS","377",,"20",,3,"","",5.0,0,5.0,0
+29,"Computer Algorithms I","CS","401","20",,,3,"","",7.0,1,6.0,32
+30,"Professional Development Seminar","CS","499",,,,0,"","",1.0,0,1.0,0
+31,"Algorithms in Practice (Technical Elective - CS)","CS","402","29",,,3,"","",6.0,0,6.0,0
+32,"Natural Language Processing (Technical Elective - CS)","CS","421","23",,,3,"","",6.0,0,6.0,0
+33,"Software Engineering I (Technical Elective - CS)","CS","440","25",,,3,"","",6.0,0,6.0,0
+34,"	Introduction to Networking (Technical Elective - CS)","CS","450","26",,,3,"","",6.0,0,6.0,0
+35,"Operating Systems Design and Implementation (Technical Elective - CS)","CS","461","26",,,3,"","",6.0,0,6.0,0
+36,"Numerical Analysis (Technical Elective)","MCS","471","16",,,3,"","",2.0,0,2.0,0
+37,"Probaility and Statistics for Engineers (Math Elective)","IE","342","11",,,3,"","",3.0,0,3.0,0
+38,"Introduction to Advanced Mathematics (Math Elective)","MATH","215","11",,,3,"","",5.0,1,4.0,4
+39,"Formal Logic I","MATH","430","38",,,3,"","",4.0,0,4.0,0
+40,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+41,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+42,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0

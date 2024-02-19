@@ -1,0 +1,50 @@
+Curriculum,New_Jersey_Institute_Of_Tech_CS,,,,,,,,,
+Institution,"New Jersey Institute of Technology",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Roadmap to Computing","CS","100",,,,3,"","",28.0,21,7.0,0
+2,"Calculus I","MATH","111",,,,4,"","",16.0,12,4.0,0
+3,"English Composistion: Introduction to Acidemic Writing","ENGL","101",,,,3,"","",9.0,5,4.0,0
+4,"Physics I","PHYS","111",,"2","5",3,"","",4.0,1,3.0,6
+5,"Physics I Lab","PHYS","111A",,,,1,"","",5.0,2,3.0,0
+6,"First Year Student Seminar","FYS","SEM",,,,0,"","",1.0,0,1.0,0
+7,"Introduction to Computer Science","CS","113","1",,,3,"","",26.0,19,7.0,84
+8,"Calculuis II","MATH","112","2",,,4,"","",14.0,10,4.0,30
+9,"English Composition: Introduction to Writing for Research","ENGL","102","3",,,3,"","",8.0,4,4.0,13
+10,"Physics II","PHYS","121","4;2","8","11",3,"","",3.0,0,3.0,0
+11,"Physics II Lab","PHYS","121A",,,,1,"","",3.0,1,2.0,0
+12,"Introduction to Computer Science II","CS","114","7",,,3,"","",24.0,17,7.0,81
+13,"Web Search (CS Elective)","CS","345","18;17",,,3,"","",5.0,0,5.0,0
+14,"Probability and Statistics","MATH","333","8",,,3,"","",6.0,2,4.0,8
+15,"(Science Elective)","","",,,,3,"","",1.0,0,1.0,0
+16,"(His/Hum Elective)","XX","2XX","3","9",,3,"","",3.0,0,3.0,0
+17,"Foundations of Computer Science I","CS","241","12;8",,,3,"","",9.0,4,5.0,36
+18,"Programming Language Concepts","CS","280","12",,,3,"","",16.0,9,7.0,40
+19,"Computers, Society, and Ethics","IS","350","7",,,3,"","",3.0,0,3.0,0
+20,"Oral Presentations","COM","312","9",,,3,"","",3.0,0,3.0,0
+21,"(Free Elective)","XX","XX",,,,3,"","",1.0,0,1.0,0
+22,"Computing & Effective Com","YWCC","207",,,,1,"","",3.0,1,2.0,0
+23,"Intensive Programming in Linux","CS","288","18;1",,,3,"","",10.0,3,7.0,20
+24,"Principles of Operating Systems","CS","332","12",,,3,"","",4.0,0,4.0,0
+25,"Socail Sciences GER","XX","XX",,,,3,"","",1.0,0,1.0,0
+26,"Introduction to Data Science","CS","301","12;14",,,3,"","",4.0,0,4.0,0
+27,"Introduction to Computer Networks","CS","356","18",,,3,"","",7.0,1,6.0,6
+28,"Database System Design and Mgmt","CS","331","12",,,3,"","",6.0,1,5.0,5
+29,"Professional Dev in Computing","YWCC","307","22",,,1,"","",2.0,0,2.0,0
+30,"Foundations of Computer Science II","CS","341","18;17",,,3,"","",5.0,0,5.0,0
+31,"Intro to Computer Systems","CS","350","18",,,3,"","",5.0,0,5.0,0
+32,"Introduction to Cybersecurity","CS","351","27;17",,,3,"","",6.0,0,6.0,0
+33,"Introduction to Machine Learning (CS Elective)","CS","375","1",,,3,"","",2.0,0,2.0,0
+34,"Advanced Data Structures and Algorithm Design","CS","435","17;23",,,3,"","",6.0,0,6.0,0
+35,"Guided Design in Software Engineering","CS","490","18;23",,,3,"","",8.0,1,7.0,17
+36,"(His/Hum Elective)","XX","3XX","9",,,3,"","",5.0,1,4.0,4
+37,"Differential Equations (Math or Science Elective)","MATH","222","8",,,3,"","",3.0,0,3.0,0
+38,"Android Application Development (CS Elective)","CS","300","28",,,3,"","",5.0,0,5.0,0
+39,"Senoir Project","CS","491","35",,,3,"","",7.0,0,7.0,0
+40,"(Hum and SS Senoir Seminar)","XX","4XX","9","36",,3,"","",4.0,0,4.0,0
+41,"Image Processing and Analysis (CS Elective)","CS","439","12;14",,,3,"","",4.0,0,4.0,0
+42," Database Programming (CS Elective)","CS","441","12",,,3,"","",4.0,0,4.0,0
+43,"(Free Elective)","XX","XX",,,,3,"","",1.0,0,1.0,0

@@ -1,0 +1,47 @@
+Curriculum,Florida_Atlantic_University_CS,,,,,,,,,
+Institution,"Florida Atlantic University",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Foundations of Written Communication","XX","XX",,,,3,"","",1.0,0,1.0,0
+2,"Foundations of Written Communication","XX","XX",,,,3,"","",1.0,0,1.0,0
+3,"Foundation of Society and Human Behavior","XX","XX",,,,3,"","",1.0,0,1.0,0
+4,"Foundation of Society and Human Behavior","XX","XX",,,,3,"","",1.0,0,1.0,0
+5,"Foundation of Global Citizenship","XX","XX",,,,3,"","",1.0,0,1.0,0
+6,"Foundation of Global Citizenship","XX","XX",,,,3,"","",1.0,0,1.0,0
+7,"Foundation of Humanities","XX","XX",,,,3,"","",1.0,0,1.0,0
+8,"Foundation of Humanities","XX","XX",,,,3,"","",1.0,0,1.0,0
+9,"Calculus with Analytics Geometry 1","MAC","2311",,,,4,"","",11.0,6,5.0,0
+10,"Calculus with Analytics Geometry 2","MAC","2312","9",,,4,"","",9.0,4,5.0,9
+11,"Matrix Theory","MAS","2103","9",,,3,"","",2.0,0,2.0,0
+12,"Science Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+13,"Science Elective Lab","XX","XX",,,,1,"","",1.0,0,1.0,0
+14,"Science Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+15,"Introduction to Data Science and Analytics","CAP","4773","20;19",,,3,"","",4.0,0,4.0,0
+16,"Computer Logic Design","CDA","3203",,,,3,"","",3.0,1,2.0,0
+17,"Computer Architecture","CDA","4102","16;19",,,3,"","",2.0,0,2.0,0
+18,"Foundations of Computing","COT","2000",,,,3,"","",23.0,18,5.0,0
+19,"Programming I","COP","2220",,,,3,"","",28.0,22,6.0,0
+20,"Stochastics Processes and Random Signals","EEE","4541","10",,,3,"","",8.0,3,5.0,9
+21,"RI: Engineering Design 1","EGN","4950C","20","23",,3,"","",7.0,1,6.0,21
+22,"RI: Engineering Design 2","EGN","4952C","21",,,3,"","",6.0,0,6.0,0
+23,"Principles of Software Engineering","CEN","4010","26",,,3,"","",9.0,3,6.0,29
+24,"Communication Networks","CNT","4007","26",,,3,"","",4.0,0,4.0,0
+25,"Programming 2","COP","3014","19",,,3,"","",25.0,19,6.0,61
+26,"Data Structures and Algorithm Analysis","COP","3530","18;19","25",,3,"","",23.0,17,6.0,148
+27,"Computer Operating Systems","COP","4610","26",,,3,"","",6.0,1,5.0,13
+28,"Introduction to Database Structures","COP","3540","26",,,3,"","",6.0,1,5.0,13
+29,"Principles of Programming Languages","COP","4020","26;31",,,3,"","",5.0,0,5.0,0
+30,"Design and Analysis of Algorithms","COT","4400","26",,,3,"","",4.0,0,4.0,0
+31,"Theory of Computation","COT","4420","26",,,3,"","",6.0,1,5.0,13
+32,"Introduction to Deep Learning (Semi Core Group 1)","CAP","4613","26",,,3,"","",4.0,0,4.0,0
+33,"Introduction to Artificial Intelligence (Semi Core Group 1)","CAP","4630","26",,,3,"","",4.0,0,4.0,0
+34,"Introduction to Internet Computing (Semi Core Group 2)","COP","3813","25",,,3,"","",3.0,0,3.0,0
+35,"Object Oriented Design and Programming (Semi Core Group 2)","COP","4331","26",,,3,"","",4.0,0,4.0,0
+36,"Software Engineering Project (CS Elective)","CEN","4910","23",,,3,"","",5.0,0,5.0,0
+37,"Python Programming (CS Elective)","COP","4045","26",,,3,"","",4.0,0,4.0,0
+38,"Advanced Database Systems (CS Elective)","COP","4703","28",,,3,"","",5.0,0,5.0,0
+39,"Foundations of Cybersecuirty (CS Elective)","CNT","4403","27",,,3,"","",5.0,0,5.0,0
+40,"Mobile App Projects (CS Elective)","COP","4655","26",,,3,"","",4.0,0,4.0,0

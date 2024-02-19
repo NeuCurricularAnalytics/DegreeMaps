@@ -1,0 +1,47 @@
+Curriculum,CUNY_Queens_College,,,,,,,,,
+Institution,"CUNY Queens College",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Discrete Math","MATH","120",,,,3,"","",20.0,14,6.0,0
+2,"Calculus","MATH","141",,,,3,"","",24.0,18,6.0,0
+3,"Linear Algebra","MATH","231","2",,,4,"","",2.0,0,2.0,0
+4,"Calculus/Integration","MATH","142","2",,,3,"","",8.0,3,5.0,5
+5,"Calculus-Infinite Series","MATH","143","4",,,3,"","",7.0,2,5.0,5
+6,"Probabilty and Stats","MATH","241","5",,,3,"","",6.0,1,5.0,5
+7,"Intro to Algorithmic Solving","CS","111",,,,3,"","",25.0,19,6.0,0
+8,"OOP in C++","CS","211","7",,,3,"","",19.0,13,6.0,60
+9,"OOP in Java","CS","212","7",,,3,"","",19.0,13,6.0,60
+10,"Discrete Structures","CS","220","7;2;1",,,3,"","",19.0,13,6.0,180
+11,"Computer Organization & Assambly Language","CS","240","7",,,3,"","",10.0,6,4.0,15
+12,"Data Structures","CS","313","10;9;8",,,3,"","",18.0,12,6.0,300
+13,"Theroy of Computation","CS","320","12",,,3,"","",9.0,3,6.0,60
+14,"Computer Architecture","CS","343","11",,,3,"","",5.0,1,4.0,4
+15,"Design and Analysis of Algorithms","CS","323","12",,,3,"","",4.0,0,4.0,0
+16,"Database Systems","CS","331","12",,,3,"","",7.0,2,5.0,50
+17,"Software Engineering","CS","370","12",,,3,"","",4.0,0,4.0,0
+18,"Principles of Programming Languages","CS","316","13;11;12",,,3,"","",8.0,2,6.0,118
+19,"Operating Systems","CS","340","11;12",,,3,"","",4.0,0,4.0,0
+20,"Object Oriented Databases (CS Elective)","CS","332","16;12",,,3,"","",5.0,0,5.0,0
+21,"Data Communications (CS Elective)","CS","348","14",,,3,"","",4.0,0,4.0,0
+22,"Internet & Web Technologies (CS Elective)","CS","355","12",,,3,"","",4.0,0,4.0,0
+23,"Data Mining and Warehousing (CS Elective)","CS","334","6;12",,,3,"","",5.0,0,5.0,0
+24,"Artifical Intelligence (CS Elective)","CS","363","18",,,3,"","",6.0,0,6.0,0
+25,"Compilers (CS Elective)","CS","317","18",,,3,"","",6.0,0,6.0,0
+26,"Information Storage and Retrival (CS Elective)","CS","335","16;12",,,3,"","",5.0,0,5.0,0
+27,"College Writng 1","ENG","110",,,,3,"","",3.0,1,2.0,0
+28,"College Writng 2","ENG","XX","27",,,3,"","",2.0,0,2.0,0
+29,"Life and Physical Sciences","XX","XX",,,,3,"","",1.0,0,1.0,0
+30,"Woeld Cultures and Global Issues","XX","XX",,,,3,"","",1.0,0,1.0,0
+31,"US Experience in its Diversity","XX","XX",,,,3,"","",1.0,0,1.0,0
+32,"Creative Expression","XX","XX",,,,3,"","",1.0,0,1.0,0
+33,"Individual and Society","XX","XX",,,,3,"","",1.0,0,1.0,0
+34,"Scientific World","XX","XX",,,,3,"","",1.0,0,1.0,0
+35,"Flexible Core Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+36,"Flexible Core Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+37,"Literature Course","XX","XX",,,,3,"","",1.0,0,1.0,0
+38,"Language Course","XX","XX",,,,3,"","",1.0,0,1.0,0
+39,"Science Course","XX","XX",,,,3,"","",1.0,0,1.0,0
+40,"General Elective","XX","XX",,,,2,"","",1.0,0,1.0,0

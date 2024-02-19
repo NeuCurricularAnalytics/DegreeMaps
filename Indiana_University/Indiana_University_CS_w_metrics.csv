@@ -1,0 +1,45 @@
+Curriculum,Indiana_University_CS,,,,,,,,,
+Institution,"Indiana University",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Intensive Writing (IW Elective)","XX","2XX",,,,3,"","",1.0,0,1.0,0
+2,"Natural Science Elective (Introductory Biology Lectures)","BIOL-L","104",,,,3,"","",3.0,1,2.0,0
+3,"Natural Science Elective (The City as Ecosystem)","BIOL-L","222",,,,3,"","",1.0,0,1.0,0
+4,"Natural Science Elective (Biology of the Cell)","BIOL-L","330","2",,,3,"","",2.0,0,2.0,0
+5,"Natural Science Elective (Envirmental Biology)","BIOL-L","350",,,,3,"","",1.0,0,1.0,0
+6,"Introduction to Computers and Programming","CSCI-C","200",,,,4,"","",15.0,11,4.0,0
+7,"Introduction to Software Systems","CSCI-C","212","6",,,4,"","",11.0,7,4.0,17
+8,"Discrete Structures for Computer Science","CSCI-C","241","6",,,3,"","",9.0,5,4.0,14
+9,"Data Structures","CSCI-C","343","7;8",,,4,"","",5.0,1,4.0,8
+10,"Career Development for Computer Science Majors","CSCI-Y","395",,,,1,"","",1.0,0,1.0,0
+11,"Fundamentals of Computing Theory - Foundations Specialization","CSCI-B","401","7;8",,,3,"","",3.0,0,3.0,0
+12,"Introduction to Algorithm Design and Analysis - Foundations Specialization","CSCI-B","403","21;9;8",,,3,"","",4.0,0,4.0,0
+13,"Introduction to Verification - Foundations Specialization","CSCI-P","415","14",,,3,"","",4.0,0,4.0,0
+14,"Programming Languages  - Foundations Specialization Elective","CSCI-C","311","7;8",,,4,"","",5.0,1,4.0,8
+15,"Principles of Machine Learning - Foundations Specialization Elective","CSCI-B","455","6;20",,,3,"","",2.0,0,2.0,0
+16,"Additional CS Work (Introduction to Artificial Intelligence)","CSCI-B","351","6",,,3,"","",2.0,0,2.0,0
+17,"Additional CS Work (Introduction to Data Analysis and Mining)","CSCI-B","365",,,,3,"","",1.0,0,1.0,0
+18,"Additional CS Work (Object-Oriented Software Methods)","CSCI-C","322","7",,,4,"","",3.0,0,3.0,0
+19,"Additional CS Work (Mobile App Development)","CSCI-C","323","7",,,3,"","",3.0,0,3.0,0
+20,"Calculus I","MATH-M","211",,,,4,"","",7.0,4,3.0,0
+21,"Math Elective (Calculus II)","MATH-M","212","20",,,4,"","",5.0,2,3.0,6
+22,"Math Elective (Linear Algebra and Applications)","MATH-M","301","21",,,3,"","",3.0,0,3.0,0
+23,"Reading, Writing, and Inquiry I (English Composition)","ENG-W","131",,,,3,"","",1.0,0,1.0,0
+24,"(Arts and Humanities)","XX","XX",,,,3,"","",1.0,0,1.0,0
+25,"(Arts and Humanities)","XX","XX",,,,3,"","",1.0,0,1.0,0
+26,"(Social and Historical Studies)","XX","XX",,,,3,"","",1.0,0,1.0,0
+27,"(Social and Historical Studies)","XX","XX",,,,3,"","",1.0,0,1.0,0
+28,"(Diversity in the United States)","XX","XX",,,,3,"","",1.0,0,1.0,0
+29,"(Global Civilizations and Cultures)","XX","XX",,,,3,"","",1.0,0,1.0,0
+30,"(Critical Approaches to the Arts and Sciences)","XX","XX",,,,3,"","",1.0,0,1.0,0
+31,"(Public Oral Communication)","XX","XX",,,,3,"","",1.0,0,1.0,0
+32,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+33,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+34,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+35,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+36,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+37,"General Elective","XX","XX",,,,4,"","",1.0,0,1.0,0
+38,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0

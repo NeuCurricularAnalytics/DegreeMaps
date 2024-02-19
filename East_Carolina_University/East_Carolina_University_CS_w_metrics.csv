@@ -1,0 +1,49 @@
+Curriculum,East_Carolina_University,,,,,,,,,
+Institution,"East Carolina University",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Fundamentals of Speech Communication","COMM","2020",,,,3,"","",1.0,0,1.0,0
+2,"Professional Ethics","PHIL","2275",,,,3,"","",1.0,0,1.0,0
+3,"Algorithmic Problem Solving","CSCI","1010",,,,4,"","",20.0,15,5.0,0
+4,"Algorithmic Problem Solving Lab","CSCI","1011",,,"3",0,"","",2.0,0,2.0,0
+5,"Discrete Structures I","CSCI","2400",,,,3,"","",20.0,15,5.0,0
+6,"Discrete Structures II","CSCI","2405","5",,,3,"","",17.0,12,5.0,34
+7,"Digital Logic Design","CSCI","2410",,,,3,"","",8.0,5,3.0,0
+8,"Algorithms and Data Structures","CSCI","2530","3","5",,3,"","",18.0,13,5.0,84
+9,"Data Abstraction and Object Oriented Design","CSCI","2540","8","6",,4,"","",12.0,7,5.0,72
+10,"Operating Systems","CSCI","3000","6;8",,,3,"","",5.0,1,4.0,12
+11,"Computer Network","CSCI","3010","7;8",,,3,"","",6.0,2,4.0,22
+12,"Software Engineering I","CSCI","3030","9",,,3,"","",6.0,1,5.0,15
+13,"Computational Linear Algebra","CSCI","3584","22",,,3,"","",4.0,0,4.0,0
+14,"Design and Analysis of Algorithms","CSCI","3650","6;8",,,3,"","",3.0,0,3.0,0
+15,"Principles of Programming Languages","CSCI","3675","9",,,3,"","",6.0,1,5.0,15
+16,"Database Mangement Systems","CSCI","3700","9",,,3,"","",7.0,2,5.0,30
+17,"Software Engineering II","CSCI","4230","16;12",,"18",3,"","",5.0,0,5.0,0
+18,"Software Engineering II Lab","CSCI","4231",,,,0,"","",3.0,1,2.0,0
+19,"Computer Architecture","CSCI","4520","7",,,3,"","",2.0,0,2.0,0
+20,"Automata, Computability and Complexity","CSCI","4602","6;8",,,3,"","",3.0,0,3.0,0
+21,"Ethical and Professional Issues in Computer Science","CSCI","4900",,,,1,"","",1.0,0,1.0,0
+22,"Calculus I","CSCI","2171","23",,,4,"","",5.0,1,4.0,4
+23,"Pre Calculus Mathematics","MATH","1085","24",,,4,"","",6.0,2,4.0,4
+24,"College Algebra","MATH","1065",,,,3,"","",7.0,3,4.0,0
+25,"Elementary Statistical Methods","MATH","2228",,,,3,"","",1.0,0,1.0,0
+26,"Principles of Biology I (Science Elective)","BIOL","1100",,"27",,3,"","",6.0,2,4.0,7
+27,"Principles of Biology Labratory I (Science Elective)","BIOL","1101",,,,1,"","",7.0,3,4.0,0
+28,"Principles of Biology II (Science Elective)","BIOL","1200","27;26","29",,3,"","",4.0,0,4.0,0
+29,"Principles of Biology Labratory II (Science Elective)","BIOL","1201","27;26",,,1,"","",5.0,1,4.0,7
+30,"Cloud Computing (CS Elective)","CSCI","4170","11;10",,,3,"","",4.0,0,4.0,0
+31,"Big Data Analytics (CS Elective)","CSCI","4180","16",,,3,"","",5.0,0,5.0,0
+32,"Mobile Computing (CS Elective)","CSCI","4540","11;9",,,3,"","",4.0,0,4.0,0
+33,"Procedural Languages and Compliers (CS Elective)","CSCI","4627","15;7",,,3,"","",5.0,0,5.0,0
+34,"Humanites and Fine Arts","XX","XX",,,,3,"","",1.0,0,1.0,0
+35,"Humanites","XX","XX",,,,3,"","",1.0,0,1.0,0
+36,"Fine Arts","XX","XX",,,,3,"","",1.0,0,1.0,0
+37,"Social Sciences","XX","XX",,,,3,"","",1.0,0,1.0,0
+38,"Social Sciences","XX","XX",,,,3,"","",1.0,0,1.0,0
+39,"Social Sciences","XX","XX",,,,3,"","",1.0,0,1.0,0
+40,"Health Promotion","XX","XX",,,,3,"","",1.0,0,1.0,0
+41,"General Elective","XX","XX",,,,4,"","",1.0,0,1.0,0
+42,"General Elective","XX","XX",,,,4,"","",1.0,0,1.0,0

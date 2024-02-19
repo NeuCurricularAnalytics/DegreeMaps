@@ -1,0 +1,57 @@
+Curriculum,University of Washington - Seattle Campus,,,,,,,,,
+Institution,"University of Washington",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"quarter",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"English Composition","ENGL","109",,,,5,"","",0.7,0,1.0,0
+2,"UW Diversity Requirement","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+3,"Calculus with Analytic Geometry I","Math","124",,,,5,"","",12.7,13,6.0,0
+4,"Calculus with Analytic Geometry II ","Math","125","3",,,5,"","",12.0,12,6.0,64
+5,"Calculus with Analytic Geometry III","Math","126","4",,,5,"","",11.3,11,6.0,64
+6,"Matrix Algebra with Applications","Math","208","5",,,3,"","",4.0,1,5.0,5
+7,"(Natural Scince Req)  Introductory Biology","Biol","180",,,,5,"","",0.7,0,1.0,0
+8,"Introduction to Computer Programming III","CSE","123",,,,4,"","",12.0,14,4.0,0
+9,"Foundations of Computing I ","CSE","311","5;8",,,4,"","",10.0,9,6.0,98
+10,"Foundations of Computing II","CSE","312","9",,,4,"","",6.7,4,6.0,40
+11,"Software Design and Implementation","CSE","331","8",,,4,"","",1.3,0,2.0,0
+12,"Data Structures and Parallelism","CSE","332","9",,,4,"","",6.7,4,6.0,40
+13,"The Hardware/Software Interface","CSE","351","8",,,4,"","",4.0,3,3.0,9
+14,"(CSE 400 elective 1) Intro to Analysis of Algorithms","CSE","421","10;12",,,3,"","",4.0,0,6.0,0
+15,"(CSE 400 elective 2) Toolkit for Modern Algorithms","CSE","422","6;10;12",,,3,"","",4.0,0,6.0,0
+16,"(CSE 400 elective 3) Cryptography","CSE","426","10",,,4,"","",4.0,0,6.0,0
+17,"(CSE 400 elective 4) Introduction to Database Systems","CSE","414","8",,,4,"","",1.3,0,2.0,0
+18,"(CSE 300/400 elective 1) Introduction to Digital Design","CSE","369","9",,,3,"","",4.7,1,6.0,10
+19,"(CSE 300/400 elective 2) Design and Implementation of Domain-Specific Languages","CSE","402","13;12",,,4,"","",4.0,0,6.0,0
+20,"(CSE capstone or core course) Capstone Software Design","CSE","481","13;10;18;12",,,5,"","",4.0,0,6.0,0
+21,"(additional CSE courses) Systems Programming","CSE","333","13",,,3,"","",2.0,0,3.0,0
+22,"(additional CSE courses) Introduction to Data Mangement","CSE","344","9",,,4,"","",3.3,0,5.0,0
+23,"Forign Language through 3rd quarter","XXX","XXX",,,,5,"","",0.7,0,1.0,0
+24,"Forign Language through 3rd quarter","XXX","XXX",,,,5,"","",0.7,0,1.0,0
+25,"Forign Language through 3rd quarter","XXX","XXX",,,,5,"","",0.7,0,1.0,0
+26,"Social Sciences","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+27,"Social Sciences","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+28,"Social Sciences","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+29,"Social Sciences","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+30,"Social Sciences","XXX","XXX",,,,4,"","",0.7,0,1.0,0
+31,"Social Sciences","XXX","XXX",,,,4,"","",0.7,0,1.0,0
+32,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+33,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+34,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+35,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+36,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+37,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+38,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+39,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+40,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+41,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+42,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+43,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+44,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+45,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+46,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+47,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+48,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+49,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0
+50,"Other Electives","XXX","XXX",,,,3,"","",0.7,0,1.0,0

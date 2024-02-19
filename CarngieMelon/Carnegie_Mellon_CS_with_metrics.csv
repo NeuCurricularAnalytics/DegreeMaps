@@ -1,0 +1,41 @@
+Curriculum,Carnegie_Mellon_CS,,,,,,,,,,,,
+Institution,Carngie Melon,,,,,,,,,,,,
+Degree Type,BS ,,,,,,,,,,,,
+System Type,semester,,,,,,,,,,,,
+CIP,11.0701,,,,,,,,,,,,
+Courses,,,,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,First Year Immigration Course,7,128,,,,1,,,1,0,1,0
+2,Fundamentals of Programming and Computer Science,15,112,,,,12,,,16,12,4,0
+3,Principles of Imperative Computation,15,122,2,,,10,,,13,9,4,26
+4,Principles of Functional Programming,15,150,5;2,,,10,,,8,3,5,16
+5,Mathematical Foundations for Computer Science,15,151,6,,,12,,,11,6,5,17
+6,Differential and Integral Calculus,21,120,,,,10,,,14,9,5,0
+7,Parallel and Sequential Data Structures and Algorithms,15,210,4;3,,,12,,,6,1,5,13
+8,Introduction to Computer Systems,15,213,3,,,12,,,6,2,4,8
+9,Great Ideas in Theoretical Computer Science,15,215,5;3,,,12,,,6,2,4,16
+10,Algorithm Design and Analysis,15,451,7;11;9,,,12,,,5,0,5,0
+11,Matrices and Linear Transformations,21,241,,,,10,,,4,2,2,0
+12,(AI Elective) Natural Language Processing,11,411,3,,,12,,,3,0,3,0
+13,(Domain Elective) Foundations of Software Engineering,17,313,,,,12,,,1,0,1,0
+14,(Logic/Language Elective) Foundations of Programming Languages,15,312,4,,,12,,,4,0,4,0
+15,(Software Systems Elective) Operating System Design and Implementation,15,410,8,,,15,,,4,0,4,0
+16,(CS Elective) Designing Human Centered Software,15,391,3,,,12,,,3,0,3,0
+17,(CS Elective) Database Systems,15,445,8,,,12,,,4,0,4,0
+18,Integration and Approximation,21,122,6,,,10,,,4,1,3,3
+19,Calculus in Three Dimensions,21,259,18,,,9,,,3,0,3,0
+20,(Probabilty Requirment) Probability and Computing,15,259,11;9,,,12,,,4,0,4,0
+21,(Techinical Communication) Research and Innovation in Computer Science,7,300,,,,9,,,1,0,1,0
+22,Computing @ Carnegie Mellon,99,101,,,,3,,,1,0,1,0
+23,Science/Engineering,XX,XXX,,,,12,,,1,0,1,0
+24,Science/Engineering,XX,XXX,,,,12,,,1,0,1,0
+25,Science/Engineering,XX,XXX,,,,12,,,1,0,1,0
+26,Humanities/Arts,XX,XXX,,,,12,,,1,0,1,0
+27,Humanities/Arts,XX,XXX,,,,11,,,1,0,1,0
+28,Humanities/Arts,XX,XXX,,,,10,,,1,0,1,0
+29,Humanities/Arts,XX,XXX,,,,10,,,1,0,1,0
+30,Humanities/Arts,XX,XXX,,,,10,,,1,0,1,0
+31,Humanities/Arts,XX,XXX,,,,10,,,1,0,1,0
+32,Minor or Concentration Requirement/Free electives,XX,XXX,,,,10,,,1,0,1,0
+33,Minor or Concentration Requirement/Free electives,XX,XXX,,,,10,,,1,0,1,0
+34,Minor or Concentration Requirement/Free electives,XX,XXX,,,,10,,,1,0,1,0

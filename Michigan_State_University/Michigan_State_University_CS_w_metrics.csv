@@ -1,0 +1,44 @@
+Curriculum,Michigan_State_University_CS,,,,,,,,,,,,
+Institution,Michigan State University,,,,,,,,,,,,
+Degree Type,BS,,,,,,,,,,,,
+System Type,semester,,,,,,,,,,,,
+CIP,11.07,,,,,,,,,,,,
+Courses,,,,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,Cell and Molecular Biology (Bioscience Elective),BS,161,,,,3,,,3,1,2,0
+2,Call and Molecular Biology Lab (Bioscience Elective),BS,171,,1,,2,,,2,0,2,0
+3,Introduction to Programming I,CSE,231,,24,,4,,,19,13,6,63
+4,Introduction to Programming II,CSE,232,24;3,,,4,,,17,11,6,109
+5,Discrete Structures in Computer Science,CSE,260,25,,,4,,,17,11,6,56
+6,"Social, Ethica, and Professional Issues in Computer Science",CSE,300,,,,1,,,3,1,2,0
+7,Computer Organization and Architecture,CSE,320,5;4,,,3,,,12,6,6,82
+8,Computer Systems,CSE,325,7,,,3,,,9,3,6,51
+9,Algorithms and Data Structures,CSE,331,5;4,,,3,,,10,4,6,48
+10,Object-Oriented Design,CSE,335,5;4,,,4,,,7,2,5,28
+11,Introduction to Computer Security,CSE,425,8,,,3,,,6,0,6,0
+12,Collabrative Design (W),CSE,498,16;6;10;18;26;8,,,4,,,6,0,6,0
+13,Martix Algebra with Computation Applications,MTH,314,25;3,,,3,,,3,0,3,0
+14,Probability and Statistics for Engineering,STT,351,27,,,3,,,4,0,4,0
+15,Computer Architecture (CS Elective),CSE,420,4;8,,,3,,,6,0,6,0
+16,Algorithm Engineering (CS Elective),CSE,431,9,,,3,,,7,1,6,17
+17,Software Engineering (CS Elective),CSE,435,10;9;26,,,3,,,5,0,5,0
+18,Translation of Programming Languages (CS Elective),CSE,450,7;9,,,3,,,7,1,6,34
+19,Web Application Architecture and Development (CS Elective),CSE,477,7,,,3,,,5,0,5,0
+20,Conagte,XX,XX,,,,3,,,1,0,1,0
+21,Conagte,XX,XX,,,,3,,,1,0,1,0
+22,Conagte,XX,3XX,,,,3,,,1,0,1,0
+23,Conagte,XX,3XX,,,,3,,,1,0,1,0
+24,Calculus I,MATH,132,,,,3,,,26,20,6,0
+25,Calculus II,MATH,133,24,,,4,,,23,17,6,70
+26,"Writing, Rhetoric, and American Cultures",WRA,101,,,,4,,,4,2,2,0
+27,Multivariable Calculus,MATH,234,25,,,4,,,5,1,4,4
+28,Introduction to Engineering Design,EGR,100,,,,2,,,3,1,2,0
+29,Social and Behaviors Sciences Elective,ISS,2XX,,,,4,,,3,1,2,0
+30,Social and Behaviors Sciences Elective,ISS,3XX,29,,,4,,,2,0,2,0
+31,Physics for Scientists and Engineers I,PHY,183,,25,,4,,,5,1,4,4
+32,Physics for Scientists and Engineers II,PHY,184,31,25,,4,,,4,0,4,0
+33,Arts or Humanties Elective,IAH,201-210,,,,4,,,3,1,2,0
+34,Arts or Humanites Elective,IAH,211>,33;28,,,4,,,2,0,2,0
+35,Free Elective,XX,XX,,,,3,,,1,0,1,0
+36,Free Elective,XX,XX,,,,3,,,1,0,1,0
+37,Free Elective,XX,XX,,,,2,,,1,0,1,0

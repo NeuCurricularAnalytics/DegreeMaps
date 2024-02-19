@@ -1,0 +1,44 @@
+Curriculum,Rutgers_CS,,,,,,,,,
+Institution,"Rutgers University New Brunswick",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Calculus I for Physical Science Majors","640","151",,,,4,"","",22.0,16,6.0,0
+2,"Calculus II for Physical Science Majors","640","152","1",,,4,"","",12.0,7,5.0,21
+3,"Introduction to Computer Science","198","111",,"1",,4,"","",17.0,11,6.0,50
+4,"Data Structures","198","112","3",,,4,"","",13.0,7,6.0,23
+5,"Introduction to Discrete Structures I","198","205","3",,,4,"","",13.0,7,6.0,27
+6,"Introduction to Discrete Structures II","198","206","5;2",,,4,"","",9.0,3,6.0,20
+7,"Computer Architecture","198","211","4",,,4,"","",9.0,3,6.0,11
+8,"Design and Analysis of Computer Algorithms","198","344","4;6",,,4,"","",5.0,0,5.0,0
+9,"Computer Science Elective (software methodology)","198","213","4",,,4,"","",4.0,0,4.0,0
+10,"Computer Science Elective (principles of programming languages)","198","314","5;7;2",,,4,"","",5.0,0,5.0,0
+11,"Computer Science Elective (principles of information and data management)","198","336","5;4;2",,,4,"","",4.0,0,4.0,0
+12,"Computer Science Elective (internet technology)","198","352","6;7",,,4,"","",7.0,1,6.0,17
+13,"Computer Science Elective (introducation to artificial intelligence)","198","440","5;2",,,4,"","",4.0,0,4.0,0
+14,"Computer Science and Related Field Elective (minds, machines, and persons)","730","329",,,,3,"","",1.0,0,1.0,0
+15,"Computer Science and Related Field Elective (computer security)","198","419","5;2;12",,,4,"","",6.0,0,6.0,0
+16,"General Physics","750","203",,"18;1",,3,"","",4.0,1,3.0,6
+17,"General Physics","750","204","16","1;19",,3,"","",3.0,0,3.0,0
+18,"General Physics Lab","750","205",,,,1,"","",5.0,2,3.0,0
+19,"General Physics Lab","750","206",,,,1,"","",3.0,1,2.0,0
+20,"Introductory Linear Algebra","640","250",,"1",,3,"","",2.0,0,2.0,0
+21,"Diversities and Social Inequalities [CCD]","XX","XX",,,,3,"","",1.0,0,1.0,0
+22,"Our Common Future [CCO]","XX","XX",,,,3,"","",1.0,0,1.0,0
+23,"Natural Sciences  [NS]","XX","XX",,,,3,"","",1.0,0,1.0,0
+24,"Natural Sciences  [NS]","XX","XX",,,,3,"","",1.0,0,1.0,0
+25,"Historical Analysis [HST]","XX","XX",,,,3,"","",1.0,0,1.0,0
+26,"Social Analysis [SCL]","XX","XX",,,,3,"","",1.0,0,1.0,0
+27,"Arts and Humanities [AH]","XX","XX",,,,3,"","",1.0,0,1.0,0
+28,"Arts and Humanities [AH]","XX","XX",,,,3,"","",1.0,0,1.0,0
+29,"Expository Writing","355","101",,,,3,"","",1.0,0,1.0,0
+30,"Writing and Communication [WCr]","XX","XX",,,,3,"","",1.0,0,1.0,0
+31,"Writing and Communication [WCd]","XX","XX",,,,3,"","",1.0,0,1.0,0
+32,"Quantitive and Formal Reasoning [QQ]","XX","XX",,,,3,"","",1.0,0,1.0,0
+33,"Quantitive and Formal Reasoning [QR]","XX","XX",,,,3,"","",1.0,0,1.0,0
+34,"Contemporay Challenges [CC]","XX","XX",,,,3,"","",1.0,0,1.0,0
+35,"Contemporay Challenges [CC]","XX","XX",,,,3,"","",1.0,0,1.0,0
+36,"General Elective","XX","XX",,,,4,"","",1.0,0,1.0,0
+37,"First year seminar","XX","XX",,,,1,"","",1.0,0,1.0,0

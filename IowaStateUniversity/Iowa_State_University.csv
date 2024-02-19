@@ -1,0 +1,47 @@
+Curriculum,Iowa_State_University,,,,,,,,,,,,
+Institution,Iowa State University,,,,,,,,,,,,
+Degree Type,BS,,,,,,,,,,,,
+System Type,semester,,,,,,,,,,,,
+CIP,11.07,,,,,,,,,,,,
+Courses,,,,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,Introduction to Computer Programming,COM S,127,,,,3,,,22,16,6,0
+2,Calculus I,MATH,165,,,,4,,,24,19,5,0
+3,Critical Thinking and Communication,ENGL,150,,,,3,,,13,9,4,0
+4,Environmental Ethics,ENV S,334,,,,3,,,1,0,1,0
+5,Object Oriented Programming,COM S,227,1,,,4,,,21,15,6,56
+6,Calculus II,MATH,166,2,,,4,,,15,10,5,29
+7,"Written, Oral, Visual, and Electronic Composition",ENGL,250,3,,,3,,,8,4,4,11
+8,Introduction to College Level Research,LIB,160,,,,1,,,1,0,1,0
+9,Topics in Interdisciplinary Studies: Humanities,LAS,350B,,,,3,,,1,0,1,0
+10,Introduction to Data Structures,COM S,228,5,2,,3,,,19,13,6,95
+11,Discrete Computational Structures,COM S,230,5;2,,,3,,,3,0,3,0
+12,General Chemistry I,CHEM,177,,,,4,,,3,1,2,0
+13,Graphic Design History/Theory/Criticism I,ARTGR,387,,,,3,,,1,0,1,0
+14,Elementary French I,FRNCH,101,,,,3,,,1,0,1,0
+15,Professional Career Preparation,LAS,203,2;10,,,1,,,4,0,4,0
+16,Introduction to Computer Architecture and Machine-Level Programming,COM S,321,6;10;3,,,3,,,10,4,6,56
+17,Introduction to the Design and Analysis of Algorithms,COM S,311,,,,3,,,5,3,2,0
+18,Construction Of User Interfaces,COM S,319,10,,,3,,,4,0,4,0
+19,General Chemistry II,CHEM,178,12,,,3,,,2,0,2,0
+20,Elementary French II,FRNCH,102,,,,3,,,1,0,1,0
+21,Software Development Practices,COM S,309,2;10,,,3,,,6,1,5,12
+22,Introduction to Database Management Systems,COM S,363,2;10,,,3,,,4,0,4,0
+23,Matrices and Linear Algebra,MATH,207,6,,,3,,,3,0,3,0
+24,Fundamentals of Public Speaking,SP CM,212,,,,3,,,1,0,1,0
+25,Design in Context,DSN S,183,,,,3,,,1,0,1,0
+26,Advanced Programming Techniques,COM S,327,2;10,,,3,,,4,0,4,0
+27,Theory of Computing,COM S,331,6;7;10,,,3,,,7,2,5,34
+28,Probability and Statistics for Computer Science,STAT,330,6,,,3,,,5,1,4,4
+29,Proposal and Report Writing,ENGL,309,7,,,3,,,3,0,3,0
+30,Philosophy of Technology,PHIL,343,,,,3,,,1,0,1,0
+31,Principles of Programming Languages,COM S,342,2;10,,,3,,,6,1,5,12
+32,Principles of Artificial Intelligence,COM S,472,28;17,,,3,,,4,0,4,0
+33,Principles and Practice of Compiling,COM S,440,27;31,,,3,,,5,0,5,0
+34,Health and Native American Communities,ANTHR,324,,,,3,,,1,0,1,0
+35,Distributed Systems,COM S,454,17,,,3,,,2,0,2,0
+36,Computer Science Senior Project,COM S,402,16;21;27;17,,,3,,,5,0,5,0
+37,Introduction to Operating Systems,COM S,352,16,,,3,,,8,2,6,40
+38,Computer Networks,COM S,488,37,,,3,,,6,0,6,0
+39,Leadership in a Diverse Society,LD ST,322,,,,3,,,1,0,1,0
+40,Basics of Information System Security,CPR E,431,37,,,3,,,6,0,6,0

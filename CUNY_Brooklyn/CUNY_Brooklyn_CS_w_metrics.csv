@@ -1,0 +1,46 @@
+Curriculum,CUNY_Brooklyn_CS,,,,,,,,,
+Institution,"CUNY Brooklyn",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"English Composition I","ENGL","1010",,,,3,"","",5.0,2,3.0,0
+2,"Precalculus Mathematics","MATH","1011",,,,3,"","",13.0,9,4.0,0
+3,"US Experince in its Diversity","XX","XX",,,,3,"","",1.0,0,1.0,0
+4,"Introduction to Programming Using Java","CICS","1115",,,,4,"","",18.0,13,5.0,0
+5,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+6,"English Composition II","ENGL","1012","1",,,3,"","",4.0,1,3.0,3
+7,"Life & Physical Sciences","XX","XX",,,,3,"","",1.0,0,1.0,0
+8,"World Cultures & Global Issues","XX","XX",,,,3,"","",1.0,0,1.0,0
+9,"Introduction to Modern Programming Techniques","CICS","3115","4",,,4,"","",14.0,9,5.0,32
+10,"Calculus I","MATH","1201","2",,,4,"","",7.0,3,4.0,7
+11,"Individual & Society","XX","XX",,,,3,"","",1.0,0,1.0,0
+12,"Creative Expression","XX","XX",,,,3,"","",1.0,0,1.0,0
+13,"Data Structures","CICS","3130","9",,,4,"","",12.0,7,5.0,29
+14,"Calculus II","MATH","1206","10",,,4,"","",5.0,1,4.0,4
+15,"Introduction to Discrete Structures","CICS","2210","4;2",,,3,"","",9.0,5,4.0,28
+16,"Scientific World","XX","XX",,,,3,"","",1.0,0,1.0,0
+17,"Creative Expression","XX","XX",,,,3,"","",1.0,0,1.0,0
+18,"Elementary Probaility and Statistics","MATH","2501","14",,,3,"","",4.0,0,4.0,0
+19,"Principles of Computer Architecture","CICS","3310","4;15",,,3,"","",6.0,2,4.0,22
+20,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+21,"College Option","XX","XX",,,,3,"","",1.0,0,1.0,0
+22,"College Option","XX","XX",,,,3,"","",1.0,0,1.0,0
+23,"Computers and Ethics","CICS","2820W","4;6",,,3,"","",3.0,0,3.0,0
+24,"Programming Paradigms in C++","CICS","3142","4;13;19",,,3,"","",4.0,0,4.0,0
+25,"Analysis of Algorithms","CICS","3220","13;15;10",,,3,"","",4.0,0,4.0,0
+26,"College Option","XX","XX",,,,3,"","",1.0,0,1.0,0
+27,"College Option","XX","XX",,,,3,"","",1.0,0,1.0,0
+28,"Object Oriented Programming (CS Elective)","CICS","3150","13",,,3,"","",6.0,1,5.0,5
+29,"Operating Systems","CICS","3320","13;19",,,3,"","",4.0,0,4.0,0
+30,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+31,"Independent and Group Projects I","CICS","4900","13;28",,,3,"","",5.0,0,5.0,0
+32,"Human Computer Interaction (CS Elective)","CICS","3650","9",,,3,"","",3.0,0,3.0,0
+33,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+34,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+35,"Design and Implementaion of Large Scale Web Applications","CICS","3140","13;4",,,3,"","",4.0,0,4.0,0
+36,"Compiler Construction (CS Elective)","CICS","3390","4;15;13",,,3,"","",4.0,0,4.0,0
+37,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+38,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+39,"General Elective","XX","XX",,,,1,"","",1.0,0,1.0,0

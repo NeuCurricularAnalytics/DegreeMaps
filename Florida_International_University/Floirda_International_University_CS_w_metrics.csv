@@ -1,0 +1,48 @@
+Curriculum,Floirda_International_University_CS,,,,,,,,,
+Institution,"School",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"semester",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Computer Programming 1","COP","2210",,,,4,"","",23.0,18,5.0,0
+2,"Calculus 1","MAC","2311",,,,4,"","",22.0,17,5.0,0
+3,"Calculus 2","MAC","2312","2",,,4,"","",5.0,2,3.0,6
+4,"General Elective","XX","XX",,,,4,"","",3.0,1,2.0,0
+5,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+6,"Software Engineering 1","CEN","4010","11;8",,,3,"","",6.0,1,5.0,18
+7,"Introducation to the Computing Field","CGS","1920",,,,1,"","",1.0,0,1.0,0
+8,"Technology in the Global Arena","CGS","3095","16","17",,3,"","",7.0,2,5.0,14
+9,"Capstone 1","CIS","3950","11",,,1,"","",5.0,1,4.0,4
+10,"Capstone 2","CIS","4951","9",,,2,"","",4.0,0,4.0,0
+11,"Computer Programming 2","COP","3337","1",,,3,"","",19.0,14,5.0,40
+12,"Data Structures","COP","3530","11;17",,,3,"","",12.0,7,5.0,75
+13,"Systems Programming","COP","4338",,"12",,3,"","",6.0,1,5.0,15
+14,"Operating System Principles","COP","4610","13;15",,,3,"","",5.0,0,5.0,0
+15,"Computer Architecture","CDA","3102","11;17",,,3,"","",5.0,1,4.0,12
+16,"Professional and Technical Writing","ENC","3249",,,,3,"","",7.0,3,4.0,0
+17,"Discrete Structures","COT","3100","2;1",,,3,"","",17.0,12,5.0,68
+18,"Introduction to Probability and Statistics","STA","3033","3",,,3,"","",3.0,0,3.0,0
+19,"Algorithm Techniques (CS Foundations Elective)","COP","4534","12",,,3,"","",4.0,0,4.0,0
+20,"Digital Forensics (CS Systems Elective)","CIS","4083","1",,,3,"","",2.0,0,2.0,0
+21,"Human Computer Interaction (CS Applications Elective)","CAP","4104","11",,,3,"","",3.0,0,3.0,0
+22,"Programming Languages","COP","4555","12",,,3,"","",4.0,0,4.0,0
+23,"Software Engineering 2 (CS Elective)","CEN","4021","6",,,3,"","",5.0,0,5.0,0
+24,"Software Testing (CS Elective)","CEN","4072","12",,,3,"","",4.0,0,4.0,0
+25,"Natural Lanuage Processing (CS Elective)","CAP","4641","12",,,3,"","",4.0,0,4.0,0
+26,"Artifical Intelligence (CS Elective)","CAP","4630","12",,,3,"","",4.0,0,4.0,0
+27,"UCC Course","XX","XX",,,,3,"","",1.0,0,1.0,0
+28,"UCC Course","XX","XX",,,,3,"","",1.0,0,1.0,0
+29,"UCC Course","XX","XX",,,,3,"","",1.0,0,1.0,0
+30,"UCC Course","XX","XX",,,,3,"","",1.0,0,1.0,0
+31,"UCC Course","XX","XX",,,,3,"","",1.0,0,1.0,0
+32,"General Elective","XX","XX",,,,4,"","",1.0,0,1.0,0
+33,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+34,"UCC Course","XX","XX",,,,3,"","",1.0,0,1.0,0
+35,"UCC Course","XX","XX",,,,3,"","",1.0,0,1.0,0
+36,"General Elective","XX","XX",,,,4,"","",1.0,0,1.0,0
+37,"General Elective","XX","XX",,,,3,"","",1.0,0,1.0,0
+38,"Physics I w/ Calculus Lab","PHY","2048L",,,,1,"","",3.0,1,2.0,0
+39,"Physics with Calculus 2  Lab","PHY","2049L",,,,1,"","",3.0,1,2.0,0
+40,"Physics with Calculus 1","PHY","2048",,"2","38",4,"","",2.0,0,2.0,0
+41,"Physics with Calculus 2","PHY","2049","4","3","39",4,"","",3.0,0,3.0,0

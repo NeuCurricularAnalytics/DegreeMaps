@@ -1,0 +1,42 @@
+Curriculum,Dartmouth_CS,,,,,,,,,
+Institution,"Dartmouth College",,,,,,,,,
+Degree Type,"BS",,,,,,,,,
+System Type,"quarter",,,,,,,,,
+CIP,"11.07",,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Complexity,Blocking,Delay,Centrality
+1,"Introduction to Programming and Computation","COSC","1",,,,1,"","",11.3,12,5.0,0
+2,"Problem Solving via Object-Oriented Programming","COSC","10","1",,,1,"","",10.7,11,5.0,45
+3,"Discrete Mathematics in Computer Science (Course in theory and algorithms 1)","COSC","30","2;14;1",,,1,"","",5.3,3,5.0,23
+4,"Algorithms (Course in theory and algorithms 2)","COSC","31","2;3;1",,,1,"","",4.0,1,5.0,20
+5,"Software Design and Implementation (Course in systems and hardware 1)","COSC","50","2;1",,,1,"","",4.7,2,5.0,9
+6,"Computer Architecture (Course in systems and hardware 2)","COSC","51","2;1",,,1,"","",4.7,2,5.0,9
+7,"Foundations of Applied Computer Science (Course in applied computer science 1)","COSC","70","2;14;1",,,1,"","",2.0,0,3.0,0
+8,"Numerical Methods in Computation (Course in applied computer science 2)","COSC","71","2;1",,,1,"","",2.0,0,3.0,0
+9,"Advanced Algorithms (CS Elective 1)","COSC","32","4;2;1",,,1,"","",3.3,0,5.0,0
+10,"Principles of Programming Languages (CS Elective 2)","COSC","59","2;3;1",,,1,"","",2.7,0,4.0,0
+11,"Artificial Intelligence (CS Elective 3)","COSC","76","2;1",,,1,"","",2.0,0,3.0,0
+12,"Senior Design and Implementation Project I","COSC","98.01","5;6;2;1",,,1,"","",4.0,1,5.0,25
+13,"Senior Design and Implementation Project II","COSC","98.02","2;12;1",,,1,"","",3.3,0,5.0,0
+14,"Calculus","Math","3",,,,1,"","",6.0,5,4.0,0
+15,"First Year Writing","Writing","5",,,,1,"","",0.7,0,1.0,0
+16,"First-year Seminar","XX","7",,,,1,"","",0.7,0,1.0,0
+17,"Distributive Requirement","ART","XX",,,,1,"","",0.7,0,1.0,0
+18,"Distributive Requirement","LIT","XX",,,,1,"","",0.7,0,1.0,0
+19,"Distributive Requirement","TMV","XX",,,,1,"","",0.7,0,1.0,0
+20,"Distributive Requirement","INT","XX",,,,1,"","",0.7,0,1.0,0
+21,"Distributive Requirement","SOC","XX",,,,1,"","",0.7,0,1.0,0
+22,"Distributive Requirement","SOC","XX",,,,1,"","",0.7,0,1.0,0
+23,"Distributive Requirement","QDS","XX",,,,1,"","",0.7,0,1.0,0
+24,"Distributive Requirement","SCI","XX",,,,1,"","",0.7,0,1.0,0
+25,"Distributive Requirement","SLA","XX",,,,1,"","",0.7,0,1.0,0
+26,"Distributive Requirement","TAS","XX",,,,1,"","",0.7,0,1.0,0
+27,"World Culture Requirment","W","XX",,,,1,"","",0.7,0,1.0,0
+28,"World Culture Requirment","NW","XX",,,,1,"","",0.7,0,1.0,0
+29,"World Culture Requirment","CI","XX",,,,1,"","",0.7,0,1.0,0
+30,"Language Requirement","XX","1",,,,1,"","",3.3,2,3.0,0
+31,"Language Requirement","XX","2","30",,,1,"","",2.7,1,3.0,3
+32,"Language Requirement","XX","3","31",,,1,"","",2.0,0,3.0,0
+33,"Elective","XX","XX",,,,1,"","",0.7,0,1.0,0
+34,"Elective","XX","XX",,,,1,"","",0.7,0,1.0,0
+35,"Elective","","",,,,1,"","",0.7,0,1.0,0
